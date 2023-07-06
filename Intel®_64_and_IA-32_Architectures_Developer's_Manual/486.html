@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p486" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_486{left:69px;bottom:68px;letter-spacing:0.11px;}
+#t2_486{left:102px;bottom:68px;letter-spacing:0.09px;}
+#t3_486{left:69px;bottom:1141px;letter-spacing:-0.14px;word-spacing:0.01px;}
+#t4_486{left:69px;bottom:1088px;letter-spacing:-0.15px;word-spacing:-0.47px;}
+#t5_486{left:69px;bottom:1071px;letter-spacing:-0.15px;word-spacing:-0.48px;}
+#t6_486{left:69px;bottom:1054px;letter-spacing:-0.14px;word-spacing:-0.85px;}
+#t7_486{left:69px;bottom:1037px;letter-spacing:-0.14px;word-spacing:-0.46px;}
+#t8_486{left:69px;bottom:979px;letter-spacing:0.11px;}
+#t9_486{left:151px;bottom:979px;letter-spacing:0.14px;word-spacing:0.01px;}
+#ta_486{left:69px;bottom:956px;letter-spacing:-0.15px;word-spacing:-0.48px;}
+#tb_486{left:69px;bottom:930px;}
+#tc_486{left:95px;bottom:933px;letter-spacing:-0.14px;word-spacing:-0.48px;}
+#td_486{left:95px;bottom:917px;letter-spacing:-0.15px;word-spacing:-0.45px;}
+#te_486{left:69px;bottom:890px;}
+#tf_486{left:95px;bottom:894px;letter-spacing:-0.14px;word-spacing:-0.48px;}
+#tg_486{left:69px;bottom:871px;letter-spacing:-0.15px;word-spacing:-1.15px;}
+#th_486{left:69px;bottom:854px;letter-spacing:-0.14px;word-spacing:-0.45px;}
+
+.s1_486{font-size:12px;font-family:NeoSansIntel_6wv3;color:#000;}
+.s2_486{font-size:14px;font-family:NeoSansIntel_6wv3;color:#0860A8;}
+.s3_486{font-size:14px;font-family:Verdana_b5t;color:#000;}
+.s4_486{font-size:18px;font-family:NeoSansIntelMedium_6wv2;color:#0860A8;}
+.s5_486{font-size:21px;font-family:TimesNewRoman_b5y;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts486" type="text/css" >
+
+@font-face {
+	font-family: NeoSansIntelMedium_6wv2;
+	src: url("fonts/NeoSansIntelMedium_6wv2.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntel_6wv3;
+	src: url("fonts/NeoSansIntel_6wv3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRoman_b5y;
+	src: url("fonts/TimesNewRoman_b5y.woff") format("woff");
+}
+
+@font-face {
+	font-family: Verdana_b5t;
+	src: url("fonts/Verdana_b5t.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg486Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg486" style="-webkit-user-select: none;"><object width="935" height="1210" data="486/486.svg" type="image/svg+xml" id="pdf486" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_486" class="t s1_486">E-12 </span><span id="t2_486" class="t s1_486">Vol. 1 </span>
+<span id="t3_486" class="t s2_486">INTEL® MEMORY PROTECTION EXTENSIONS </span>
+<span id="t4_486" class="t s3_486">VM exits always save IA32_BNDCFGS into BNDCFGS field of VMCS; if “clear BNDCFGS” is 1, VM exits clear </span>
+<span id="t5_486" class="t s3_486">IA32_BNDCFGS. If “load BNDCFGS” is 1, VM entry loads IA32_BNDCFGS from VMCS. If loading IA32_BNDCFGS, </span>
+<span id="t6_486" class="t s3_486">VM entry should check the value of that register in the guest-state area of the VMCS and cause the VM entry to fail </span>
+<span id="t7_486" class="t s3_486">(late) if the value is one that would causes WRMSR to fault if executed in ring 0. </span>
+<span id="t8_486" class="t s4_486">E.5.8 </span><span id="t9_486" class="t s4_486">Support of Intel MPX in Intel TSX </span>
+<span id="ta_486" class="t s3_486">For some processor implementations, the following Intel MPX instructions may always cause transactional aborts: </span>
+<span id="tb_486" class="t s5_486">• </span><span id="tc_486" class="t s3_486">An Intel TSX transaction abort will occur in case of legacy branch (that causes bounds registers INIT) when at </span>
+<span id="td_486" class="t s3_486">least one bounds register was in a NON-INIT state. </span>
+<span id="te_486" class="t s5_486">• </span><span id="tf_486" class="t s3_486">An Intel TSX transaction abort will occur in case of a BNDLDX &amp; BNDSTX instruction on non-flat segment. </span>
+<span id="tg_486" class="t s3_486">Intel MPX Instructions (including BND prefix + branch instructions) not enumerated above as causing transactional </span>
+<span id="th_486" class="t s3_486">abort when used inside a transaction will typically not cause an Intel TSX transaction to abort. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

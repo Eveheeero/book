@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_773{
+fill: #FFF;
+}
+.g1_773{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H755.2v-21.2H68.9v21.2Z" class="g0_773"/>
+<path d="M771.3,1149.3H855v-21.2H771.3v21.2Z" class="g0_773"/>
+<path d="M70.3,465H850.5V435.4H70.3V465Z" class="g0_773"/>
+<path d="M71.2,458.3h53.6V446H71.2v12.3Z" class="g0_773"/>
+<path d="M69.9,435.1h.8V131.8h-.8V435.1Z" class="g1_773"/>
+<path d="M320.5,435.8h.7V131h-.7V435.8Z" class="g1_773"/>
+<path d="M358.3,435.8h.8V131h-.8V435.8Z" class="g1_773"/>
+<path d="M431.7,435.8h.7V131h-.7V435.8Z" class="g1_773"/>
+<path d="M503.1,435.8h.7V131h-.7V435.8Z" class="g1_773"/>
+<path d="M850.1,435.1h.7V131.8h-.7V435.1Z" class="g1_773"/>
+<path d="M69.9,131.7h781V131H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,169.9h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,214.2h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,258.6h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,302.9h781v-.8H69.9v.8Z" class="g1_773"/>
+<path d="M69.9,347.1h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,391.5h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,435.8h781v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,626.6h.8V554h-.8v72.6Z" class="g1_773"/>
+<path d="M141.9,627.4h.7V553.3h-.7v74.1Z" class="g1_773"/>
+<path d="M313.7,627.4h.7V553.3h-.7v74.1Z" class="g1_773"/>
+<path d="M492.3,627.4h.7V553.3h-.7v74.1Z" class="g1_773"/>
+<path d="M664.2,627.4h.8V553.3h-.8v74.1Z" class="g1_773"/>
+<path d="M849.8,626.6h.8V554h-.8v72.6Z" class="g1_773"/>
+<path d="M69.9,554H850.6v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,578.5H850.6v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,602.9H850.6v-.7H69.9v.7Z" class="g1_773"/>
+<path d="M69.9,627.4H850.6v-.8H69.9v.8Z" class="g1_773"/>
+</svg>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p699" style="overflow: hidden; position: relative; background-color: white; width: 825px; height: 990px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_699{left:564px;bottom:933px;letter-spacing:0.1px;word-spacing:-0.83px;}
+#t2_699{left:95px;bottom:51px;letter-spacing:0.12px;word-spacing:-0.01px;}
+#t3_699{left:215px;bottom:51px;letter-spacing:0.1px;word-spacing:-0.01px;}
+#t4_699{left:712px;bottom:51px;letter-spacing:0.1px;}
+#t5_699{left:160px;bottom:879px;letter-spacing:-0.11px;word-spacing:-0.01px;}
+#t6_699{left:160px;bottom:863px;letter-spacing:-0.11px;word-spacing:0.02px;}
+#t7_699{left:160px;bottom:846px;letter-spacing:-0.11px;word-spacing:0.02px;}
+#t8_699{left:160px;bottom:829px;letter-spacing:-0.12px;word-spacing:0.02px;}
+#t9_699{left:160px;bottom:801px;letter-spacing:-0.09px;word-spacing:-0.04px;}
+#ta_699{left:485px;bottom:801px;letter-spacing:-0.11px;word-spacing:-0.04px;}
+#tb_699{left:563px;bottom:801px;}
+#tc_699{left:160px;bottom:774px;letter-spacing:-0.11px;}
+#td_699{left:160px;bottom:757px;letter-spacing:-0.11px;}
+#te_699{left:160px;bottom:740px;letter-spacing:-0.11px;word-spacing:0.01px;}
+#tf_699{left:160px;bottom:713px;letter-spacing:-0.13px;word-spacing:0.03px;}
+#tg_699{left:160px;bottom:696px;letter-spacing:-0.12px;word-spacing:0.02px;}
+#th_699{left:160px;bottom:679px;letter-spacing:-0.11px;word-spacing:0.01px;}
+#ti_699{left:330px;bottom:680px;letter-spacing:-0.01px;}
+#tj_699{left:424px;bottom:679px;letter-spacing:-0.23px;}
+
+.s1_699{font-size:12px;font-family:Helvetica-Oblique_4fp;color:#000;}
+.s2_699{font-size:12px;font-family:Helvetica_dy4;color:#000;}
+.s3_699{font-size:14px;font-family:Times-Roman_4fq;color:#000;}
+.s4_699{font-size:14px;font-family:Times-Italic_4fu;color:#000;}
+.s5_699{font-size:11px;font-family:Times-Roman_4fq;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts699" type="text/css" >
+
+@font-face {
+	font-family: Helvetica-Oblique_4fp;
+	src: url("fonts/Helvetica-Oblique_4fp.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica_dy4;
+	src: url("fonts/Helvetica_dy4.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Italic_4fu;
+	src: url("fonts/Times-Italic_4fu.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4fq;
+	src: url("fonts/Times-Roman_4fq.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg699Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg699" style="-webkit-user-select: none;"><object width="825" height="990" data="699/699.svg" type="image/svg+xml" id="pdf699" style="width:825px; height:990px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_699" class="t s1_699">The System Control Coprocessor </span>
+<span id="t2_699" class="t s2_699">ARM DDI 0100I </span><span id="t3_699" class="t s1_699">Copyright © 1996-1998, 2000, 2004, 2005 ARM Limited. All rights reserved. </span><span id="t4_699" class="t s2_699">B3-17 </span>
+<span id="t5_699" class="t s3_699">After updating this register a PrefetchFlush instruction should be executed before the effect of the change </span>
+<span id="t6_699" class="t s3_699">to the coprocessor access register can be guaranteed to be visible. None of the instructions executed after </span>
+<span id="t7_699" class="t s3_699">changing this register and before the PrefetchFlush should be coprocessor instructions affected by the </span>
+<span id="t8_699" class="t s3_699">change in coprocessor access privileges. </span>
+<span id="t9_699" class="t s3_699">After a system reset all coprocessor access rights are set to </span><span id="ta_699" class="t s4_699">Access denied</span><span id="tb_699" class="t s3_699">. </span>
+<span id="tc_699" class="t s3_699">Any unimplemented coprocessors shall result in the associated bit field read-as-zero (RAZ). This allows </span>
+<span id="td_699" class="t s3_699">system software to write all-1's to the coprocessor access register, then read back the result to determine </span>
+<span id="te_699" class="t s3_699">which coprocessors are present, as part of an auto-configuration sequence. </span>
+<span id="tf_699" class="t s3_699">If more than one coprocessor is used for a set of functionality (for example in the case with VFP, where </span>
+<span id="tg_699" class="t s3_699">CP10 and CP11 are used) then having different values in the fields of the coprocessor access register for </span>
+<span id="th_699" class="t s3_699">those coprocessors can lead to </span><span id="ti_699" class="t s5_699">UNPREDICTABLE </span><span id="tj_699" class="t s3_699">behavior. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

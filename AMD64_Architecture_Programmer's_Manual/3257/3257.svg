@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_3257"><path d="M766.6,59.2V41.4h72.2V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_3257{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M97.4,63.3H839.9v-.4H97.4v.4Z" class="g0_3257"/>
+<path d="M96.1,1114.5h.2v-.4h-.2v.4Z" class="g0_3257"/>
+<path d="M96.3,1114.5H838.9v-.4H96.3v.4Z" class="g0_3257"/>
+<image clip-path="url(#c0_3257)" preserveAspectRatio="none" x="767" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M95.3,302.1h.8v-123h-.8v123Z" class="g0_3257"/>
+<path d="M265.5,302.9h.7V178.4h-.7V302.9Z" class="g0_3257"/>
+<path d="M838.9,302.1h.8v-123h-.8v123Z" class="g0_3257"/>
+<path d="M95.2,179.1H839.8v-.7H95.2v.7Z" class="g0_3257"/>
+<path d="M95.2,211.2H839.8v-.7H95.2v.7Z" class="g0_3257"/>
+<path d="M95.2,254H839.8v-.7H95.2v.7Z" class="g0_3257"/>
+<path d="M95.2,278.4H839.8v-.7H95.2v.7Z" class="g0_3257"/>
+<path d="M95.2,302.9H839.8v-.8H95.2v.8Z" class="g0_3257"/>
+<path d="M95.9,771.2h.7V499.6h-.7V771.2Z" class="g0_3257"/>
+<path d="M261,742.9h.7V496.6H261V742.9Z" class="g0_3257"/>
+<path d="M317.5,742.9h.8V496.6h-.8V742.9Z" class="g0_3257"/>
+<path d="M838.4,771.2h.7V499.6h-.7V771.2Z" class="g0_3257"/>
+<path d="M95.9,499.6H839.1v-3H95.9v3Z" class="g0_3257"/>
+<path d="M95.9,530.2H839.1v-3H95.9v3Z" class="g0_3257"/>
+<path d="M95.9,559.5H839.1v-.7H95.9v.7Z" class="g0_3257"/>
+<path d="M261,590.1H839.1v-.8H261v.8Z" class="g0_3257"/>
+<path d="M261,620.7H839.1v-.8H261v.8Z" class="g0_3257"/>
+<path d="M261,651.2H839.1v-.7H261v.7Z" class="g0_3257"/>
+<path d="M95.9,681.7H839.1V681H95.9v.7Z" class="g0_3257"/>
+<path d="M95.9,712.3H839.1v-.7H95.9v.7Z" class="g0_3257"/>
+<path d="M95.9,742.9H839.1v-.8H95.9v.8Z" class="g0_3257"/>
+<path d="M95.9,771.9H839.1v-.7H95.9v.7Z" class="g0_3257"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_706"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_706{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_706"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_706"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_706"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_706"/>
+<image clip-path="url(#c0_706)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M192.9,391.5h-.8V656.6h.8V391.5Z" class="g0_706"/>
+<path d="M467.8,390.7h-.7V657.3h.7V390.7Z" class="g0_706"/>
+<path d="M742.8,391.5h-.7V656.6h.7V391.5Z" class="g0_706"/>
+<path d="M192.1,390.8v.7H742.8v-.7H192.1Z" class="g0_706"/>
+<path d="M192.1,415.1v.8H742.8v-.8H192.1Z" class="g0_706"/>
+<path d="M192.1,546.6v.7H742.8v-.7H192.1Z" class="g0_706"/>
+<path d="M192.1,656.6v.7H742.8v-.7H192.1Z" class="g0_706"/>
+</svg>

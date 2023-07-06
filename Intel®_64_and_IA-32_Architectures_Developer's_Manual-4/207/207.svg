@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_207{
+fill: #FFF;
+}
+.g1_207{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_207"/>
+<path d="M69.9,1072.1h.8v-948h-.8v948Z" class="g1_207"/>
+<path d="M126.7,1073h.7V164.6h-.7V1073Z" class="g1_207"/>
+<path d="M183.4,1073h.8V123.4h-.8V1073Z" class="g1_207"/>
+<path d="M427.1,1073h.7V123.4h-.7V1073Z" class="g1_207"/>
+<path d="M520.1,1073h.8V123.4h-.8V1073Z" class="g1_207"/>
+<path d="M851.8,1072.1h.7v-948h-.7v948Z" class="g1_207"/>
+<path d="M69.9,124.1H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,165.4H184.2v-.8H69.9v.8Z" class="g1_207"/>
+<path d="M69.9,189.8H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,269.2H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M183.4,327.3H852.5v-.7H183.4v.7Z" class="g1_207"/>
+<path d="M69.9,406.8H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M183.4,464.8H852.5v-.7H183.4v.7Z" class="g1_207"/>
+<path d="M69.9,544.3H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M183.4,602.3H852.5v-.7H183.4v.7Z" class="g1_207"/>
+<path d="M69.9,681.8H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M183.4,739.8H852.5v-.7H183.4v.7Z" class="g1_207"/>
+<path d="M69.9,819.3H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,843.7H852.5V843H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,885H852.5v-.8H69.9v.8Z" class="g1_207"/>
+<path d="M69.9,909.4H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,933.9H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,958.3H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,999.5H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,1024H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,1048.5H852.5v-.7H69.9v.7Z" class="g1_207"/>
+<path d="M69.9,1072.9H852.5v-.8H69.9v.8Z" class="g1_207"/>
+</svg>

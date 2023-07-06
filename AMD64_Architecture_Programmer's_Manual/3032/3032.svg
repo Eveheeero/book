@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_3032"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_3032{
+fill: #000;
+}
+.g1_3032{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+}
+.g2_3032{
+fill: none;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g3_3032{
+fill: #E5E5E5;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g4_3032{
+fill: #FFF;
+stroke: #000;
+stroke-width: 1.527;
+}
+]]></style>
+</defs>
+<path d="M96.3,63.3H838.8v-.4H96.3v.4Z" class="g0_3032"/>
+<path d="M96.1,1114.5h.2v-.4h-.2v.4Z" class="g0_3032"/>
+<path d="M96.3,1114.5H838.9v-.4H96.3v.4Z" class="g0_3032"/>
+<image clip-path="url(#c0_3032)" preserveAspectRatio="none" x="97" y="41" width="73" height="18" xlink:href="img/1.jpg"/>
+<path d="M95.9,1021.4h.7V876.6h-.7v144.8Z" class="g0_3032"/>
+<path d="M262.6,1022.1h.8V873.5h-.8v148.6Z" class="g0_3032"/>
+<path d="M311.1,1022.1h.7V873.5h-.7v148.6Z" class="g0_3032"/>
+<path d="M376.2,1022.1h.7V873.5h-.7v148.6Z" class="g0_3032"/>
+<path d="M458.2,1022.1h.7V873.5h-.7v148.6Z" class="g0_3032"/>
+<path d="M838.4,1021.4h.7V876.6h-.7v144.8Z" class="g0_3032"/>
+<path d="M95.9,876.6H839.1v-3H95.9v3Z" class="g0_3032"/>
+<path d="M95.9,919.4H839.1v-3H95.9v3Z" class="g0_3032"/>
+<path d="M262.5,942.6H839.1v-.7H262.5v.7Z" class="g0_3032"/>
+<path d="M95.9,982.4H839.1v-.7H95.9v.7Z" class="g0_3032"/>
+<path d="M95.9,1022.1H839.1v-.7H95.9v.7Z" class="g0_3032"/>
+<path d="M649.1,548.2v21.9h-438V455.4h93.4v14.5" class="g1_3032"/>
+<path d="M300.7,468.8l3.8,6.6l3.8,-6.6h-7.6Z" class="g0_3032"/>
+<path d="M649.1,509.9v18.8" class="g1_3032"/>
+<path d="M229,504.9H381.3V480.2H229v24.7Z" class="g2_3032"/>
+<path d="M420.1,504.9H572.3V480.2H420.1v24.7Z" class="g3_3032"/>
+<path d="M572.3,504.9H724.6V480.2H572.3v24.7Z" class="g4_3032"/>
+</svg>

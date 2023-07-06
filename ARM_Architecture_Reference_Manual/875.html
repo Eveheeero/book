@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p875" style="overflow: hidden; position: relative; background-color: white; width: 825px; height: 990px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_875{left:604px;bottom:933px;letter-spacing:0.12px;word-spacing:-1.16px;}
+#t2_875{left:95px;bottom:51px;letter-spacing:0.12px;word-spacing:-0.01px;}
+#t3_875{left:215px;bottom:51px;letter-spacing:0.1px;word-spacing:-0.01px;}
+#t4_875{left:712px;bottom:51px;letter-spacing:0.12px;}
+#t5_875{left:95px;bottom:878px;letter-spacing:0.14px;}
+#t6_875{left:160px;bottom:878px;letter-spacing:0.12px;word-spacing:0.02px;}
+#t7_875{left:160px;bottom:850px;letter-spacing:-0.11px;word-spacing:0.02px;}
+#t8_875{left:160px;bottom:834px;letter-spacing:-0.13px;word-spacing:-0.93px;}
+#t9_875{left:160px;bottom:817px;letter-spacing:-0.14px;word-spacing:0.02px;}
+#ta_875{left:160px;bottom:788px;}
+#tb_875{left:197px;bottom:788px;letter-spacing:-0.12px;}
+#tc_875{left:642px;bottom:789px;}
+#td_875{left:197px;bottom:772px;letter-spacing:-0.05px;}
+#te_875{left:246px;bottom:771px;letter-spacing:-0.11px;word-spacing:-0.51px;}
+#tf_875{left:197px;bottom:754px;letter-spacing:-0.11px;}
+#tg_875{left:160px;bottom:725px;}
+#th_875{left:197px;bottom:725px;letter-spacing:-0.12px;word-spacing:-0.89px;}
+#ti_875{left:197px;bottom:708px;letter-spacing:-0.13px;word-spacing:-0.38px;}
+#tj_875{left:197px;bottom:691px;letter-spacing:-0.11px;word-spacing:0.01px;}
+
+.s1_875{font-size:12px;font-family:Helvetica-Oblique_4fp;color:#000;}
+.s2_875{font-size:12px;font-family:Helvetica_dy4;color:#000;}
+.s3_875{font-size:15px;font-family:Helvetica-Bold_4ft;color:#000;}
+.s4_875{font-size:14px;font-family:Times-Roman_4fq;color:#000;}
+.s5_875{font-size:11px;font-family:Times-Roman_4fq;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts875" type="text/css" >
+
+@font-face {
+	font-family: Helvetica-Bold_4ft;
+	src: url("fonts/Helvetica-Bold_4ft.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Oblique_4fp;
+	src: url("fonts/Helvetica-Oblique_4fp.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica_dy4;
+	src: url("fonts/Helvetica_dy4.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4fq;
+	src: url("fonts/Times-Roman_4fq.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg875Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg875" style="-webkit-user-select: none;"><object width="825" height="990" data="875/875.svg" type="image/svg+xml" id="pdf875" style="width:825px; height:990px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_875" class="t s1_875">VFP Programmer’s Model </span>
+<span id="t2_875" class="t s2_875">ARM DDI 0100I </span><span id="t3_875" class="t s1_875">Copyright © 1996-1998, 2000, 2004, 2005 ARM Limited. All rights reserved. </span><span id="t4_875" class="t s2_875">C2-13 </span>
+<span id="t5_875" class="t s3_875">C2.3.1 </span><span id="t6_875" class="t s3_875">Combinations of exceptions </span>
+<span id="t7_875" class="t s4_875">It is possible for more than one exception to occur on the same operation. The only combinations of </span>
+<span id="t8_875" class="t s4_875">exceptions that can occur are Overflow/Inexact and Underflow/Inexact. In these cases, the Inexact exception </span>
+<span id="t9_875" class="t s4_875">is treated as lower priority, as follows: </span>
+<span id="ta_875" class="t s4_875">• </span><span id="tb_875" class="t s4_875">If the Overflow or Underflow exception is trapped, its trap handler is called. It is </span><span id="tc_875" class="t s5_875">IMPLEMENTATION </span>
+<span id="td_875" class="t s5_875">DEFINED </span><span id="te_875" class="t s4_875">whether the parameters to the trap handler include information about the Inexact exception. </span>
+<span id="tf_875" class="t s4_875">Apart from this, the Inexact exception is ignored in this case. </span>
+<span id="tg_875" class="t s4_875">• </span><span id="th_875" class="t s4_875">If the Overflow or Underflow exception is untrapped, its cumulative bit is set to 1 and its default result </span>
+<span id="ti_875" class="t s4_875">is evaluated. Then the Inexact exception is handled normally, with this default result being treated as </span>
+<span id="tj_875" class="t s4_875">the normal rounded result of the operation. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

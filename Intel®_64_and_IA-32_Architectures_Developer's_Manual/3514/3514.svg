@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_3514{
+fill: #FFF;
+}
+.g1_3514{
+fill: #000;
+}
+.g2_3514{
+fill: #E6E6E6;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_3514"/>
+<path d="M115,483.4h.8V393.1H115v90.3Z" class="g1_3514"/>
+<path d="M805.4,483.4h.7V393.1h-.7v90.3Z" class="g1_3514"/>
+<path d="M115,393H806.1v-.8H115v.8Z" class="g1_3514"/>
+<path d="M115,484.1H806.1v-.7H115v.7Z" class="g1_3514"/>
+<path d="M115,910.5h.8V798.8H115V910.5Z" class="g1_3514"/>
+<path d="M805.4,910.5h.7V798.8h-.7V910.5Z" class="g1_3514"/>
+<path d="M115,798.8H806.1v-.7H115v.7Z" class="g1_3514"/>
+<path d="M115,911.3H806.1v-.8H115v.8Z" class="g1_3514"/>
+<path d="M272.2,419.9H685.1v-.7H272.2v.7Z" class="g1_3514"/>
+<path d="M684.4,451.9h.7V419.6h-.7v32.3Z" class="g1_3514"/>
+<path d="M271.9,451.9H684.8v-.7H271.9v.7Z" class="g1_3514"/>
+<path d="M271.9,451.6h.7V419.2h-.7v32.4Z" class="g1_3514"/>
+<path d="M279.9,862.5H657.8V831H279.9v31.5Z" class="g2_3514"/>
+<path d="M657.4,832.1h.5V832h-.5v.1Z" class="g1_3514"/>
+<path d="M657.4,864.5h.5V832.1h-.5v32.4Z" class="g1_3514"/>
+<path d="M675.3,878.7h.5V862.5h-.5v16.2Z" class="g1_3514"/>
+<path d="M496,878.7H675.5v-.4H496v.4Z" class="g1_3514"/>
+<path d="M279.3,830.9H692.2v-.8H279.3v.8Z" class="g1_3514"/>
+<path d="M691.4,862.9h.8V830.5h-.8v32.4Z" class="g1_3514"/>
+<path d="M278.9,862.9H691.8v-.8H278.9v.8Z" class="g1_3514"/>
+<path d="M278.9,862.5h.8V830.1h-.8v32.4Z" class="g1_3514"/>
+<path d="M229.2,898h25.2V881.9H229.2V898Z" class="g2_3514"/>
+<path d="M229.2,882.2h25.4v-.5H229.2v.5Z" class="g1_3514"/>
+<path d="M254.2,898.2h.5V881.9h-.5v16.3Z" class="g1_3514"/>
+<path d="M229,898.2h25.4v-.4H229v.4Z" class="g1_3514"/>
+<path d="M229,898h.4V881.7H229V898Z" class="g1_3514"/>
+</svg>

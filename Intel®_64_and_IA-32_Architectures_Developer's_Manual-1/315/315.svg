@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_315{
+fill: #FFF;
+}
+.g1_315{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_315"/>
+<path d="M71.9,577.1h.7V455.7h-.7V577.1Z" class="g1_315"/>
+<path d="M162.6,577.9h.8V479.3h-.8v98.6Z" class="g1_315"/>
+<path d="M253.3,577.9h.7V479.3h-.7v98.6Z" class="g1_315"/>
+<path d="M343.9,577.9h.8V479.3h-.8v98.6Z" class="g1_315"/>
+<path d="M432.7,577.9h4.6v-123h-4.6v123Z" class="g1_315"/>
+<path d="M538.5,577.9h.7V479.3h-.7v98.6Z" class="g1_315"/>
+<path d="M642.4,577.9h.7V479.3h-.7v98.6Z" class="g1_315"/>
+<path d="M746.3,577.9h.7V479.3h-.7v98.6Z" class="g1_315"/>
+<path d="M850.1,577.1h.7V455.7h-.7V577.1Z" class="g1_315"/>
+<path d="M71.9,455.7H850.8v-.8H71.9v.8Z" class="g1_315"/>
+<path d="M71.9,480.2H850.8v-.8H71.9v.8Z" class="g1_315"/>
+<path d="M71.9,504.5H850.8v-.7H71.9v.7Z" class="g1_315"/>
+<path d="M71.9,529H850.8v-.7H71.9v.7Z" class="g1_315"/>
+<path d="M71.9,553.5H850.8v-.8H71.9v.8Z" class="g1_315"/>
+<path d="M71.9,577.9H850.8v-.8H71.9v.8Z" class="g1_315"/>
+</svg>

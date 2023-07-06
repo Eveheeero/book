@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_907"><path d="M766.6,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_907{
+fill: #000;
+}
+.g1_907{
+fill: #E5E5E5;
+}
+]]></style>
+</defs>
+<path d="M97.3,62.9v.3H839.9v-.3H97.3Z" class="g0_907"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_907"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_907"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_907"/>
+<image clip-path="url(#c0_907)" preserveAspectRatio="none" x="767" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M151.2,472.1H220v24.4H151.2V472.1Z" class="g1_907"/>
+<path d="M220,472.1H385v24.4H220V472.1Z" class="g1_907"/>
+<path d="M385,472.1H838.7v24.4H385V472.1Z" class="g1_907"/>
+<path d="M96.6,197.8h-.7V813.9h.7V197.8Z" class="g0_907"/>
+<path d="M151.6,196.3h-.7V814.7h.7V196.3Z" class="g0_907"/>
+<path d="M220.4,196.3h-.8V814.7h.8V196.3Z" class="g0_907"/>
+<path d="M385.4,196.3h-.8V814.7h.8V196.3Z" class="g0_907"/>
+<path d="M839.1,197.8h-.8V813.9h.8V197.8Z" class="g0_907"/>
+<path d="M95.9,196.3v1.6H839.1v-1.6H95.9Z" class="g0_907"/>
+<path d="M95.9,220.7v1.6H839.1v-1.6H95.9Z" class="g0_907"/>
+<path d="M150.9,325.2v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,349.7v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,374.1v.3H839.1v-.3H150.9Z" class="g0_907"/>
+<path d="M150.9,398.6v.3H839.1v-.3H150.9Z" class="g0_907"/>
+<path d="M150.9,423v.4H839.1V423H150.9Z" class="g0_907"/>
+<path d="M150.9,447.4v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,471.9v.3H839.1v-.3H150.9Z" class="g0_907"/>
+<path d="M150.9,496.4v.3H839.1v-.3H150.9Z" class="g0_907"/>
+<path d="M150.9,520.7v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,545.2v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M95.9,569.5v.7H839.1v-.7H95.9Z" class="g0_907"/>
+<path d="M150.9,630.7v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,673.5v.4H839.1v-.4H150.9Z" class="g0_907"/>
+<path d="M150.9,734.7v.3H839.1v-.3H150.9Z" class="g0_907"/>
+<path d="M95.9,813.9v.7H839.1v-.7H95.9Z" class="g0_907"/>
+</svg>

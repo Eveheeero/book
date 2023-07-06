@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p60" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_60{left:110px;bottom:1129px;letter-spacing:-0.17px;}
+#t2_60{left:475px;bottom:1129px;letter-spacing:-0.21px;word-spacing:1.47px;}
+#t3_60{left:152px;bottom:1065px;letter-spacing:-0.06px;word-spacing:1.82px;}
+#t4_60{left:152px;bottom:1046px;word-spacing:0.85px;}
+#t5_60{left:152px;bottom:1028px;letter-spacing:-0.02px;word-spacing:1.88px;}
+#t6_60{left:110px;bottom:992px;letter-spacing:-0.16px;word-spacing:-0.22px;}
+#t7_60{left:110px;bottom:971px;letter-spacing:-0.18px;word-spacing:1.45px;}
+#t8_60{left:110px;bottom:935px;letter-spacing:-0.13px;word-spacing:1.12px;}
+#t9_60{left:110px;bottom:914px;letter-spacing:-0.18px;word-spacing:1.51px;}
+#ta_60{left:110px;bottom:894px;letter-spacing:-0.07px;word-spacing:1.21px;}
+#tb_60{left:110px;bottom:858px;letter-spacing:-0.15px;word-spacing:0.3px;}
+#tc_60{left:110px;bottom:837px;letter-spacing:-0.16px;word-spacing:0.67px;}
+#td_60{left:110px;bottom:816px;letter-spacing:-0.17px;word-spacing:1.42px;}
+
+.s1_60{font-size:17px;font-family:CMR10_270;color:#000;}
+.s2_60{font-size:17px;font-family:CMSL10_27d;color:#000;}
+.s3_60{font-size:15px;font-family:CMTI10_27t;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts60" type="text/css" >
+
+@font-face {
+	font-family: CMR10_270;
+	src: url("fonts/CMR10_270.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMSL10_27d;
+	src: url("fonts/CMSL10_27d.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMTI10_27t;
+	src: url("fonts/CMTI10_27t.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg60Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg60" style="-webkit-user-select: none;"><object width="935" height="1210" data="60/60.svg" type="image/svg+xml" id="pdf60" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_60" class="t s1_60">42 </span><span id="t2_60" class="t s2_60">Volume I: RISC-V Unprivileged ISA V20191213 </span>
+<span id="t3_60" class="t s3_60">To improve compatibility with RV64, in a reverse of how RV32 to RV64 was handled, we might </span>
+<span id="t4_60" class="t s3_60">change the decoding around to rename RV64I ADD as a 64-bit ADDD, and add a 128-bit ADDQ </span>
+<span id="t5_60" class="t s3_60">in what was previously the OP-64 major opcode (now renamed the OP-128 major opcode). </span>
+<span id="t6_60" class="t s1_60">Shifts by an immediate (SLLI/SRLI/SRAI) are now encoded using the low 7 bits of the I-immediate, </span>
+<span id="t7_60" class="t s1_60">and variable shifts (SLL/SRL/SRA) use the low 7 bits of the shift amount source register. </span>
+<span id="t8_60" class="t s1_60">A LDU (load double unsigned) instruction is added using the existing LOAD major opcode, along </span>
+<span id="t9_60" class="t s1_60">with new LQ and SQ instructions to load and store quadword values. SQ is added to the STORE </span>
+<span id="ta_60" class="t s1_60">major opcode, while LQ is added to the MISC-MEM major opcode. </span>
+<span id="tb_60" class="t s1_60" data-mappings='[[4,"fl"],[71,"fl"]]'>The ﬂoating-point instruction set is unchanged, although the 128-bit Q ﬂoating-point extension can </span>
+<span id="tc_60" class="t s1_60">now support FMV.X.Q and FMV.Q.X instructions, together with additional FCVT instructions to </span>
+<span id="td_60" class="t s1_60">and from the T (128-bit) integer format. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

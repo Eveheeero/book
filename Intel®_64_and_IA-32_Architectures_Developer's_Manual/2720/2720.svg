@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_2720{
+fill: #FFF;
+}
+.g1_2720{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M165,1149.3H852.5v-21.2H165v21.2Z" class="g0_2720"/>
+<path d="M68.8,1149.3h82.5v-21.2H68.8v21.2Z" class="g0_2720"/>
+<path d="M68.6,467.1h.7V125.7h-.7V467.1Z" class="g1_2720"/>
+<path d="M294.8,467.9h.7v-343h-.7v343Z" class="g1_2720"/>
+<path d="M341.3,467.9h.7v-343h-.7v343Z" class="g1_2720"/>
+<path d="M415.8,467.9h.7v-343h-.7v343Z" class="g1_2720"/>
+<path d="M502.9,467.9h.7v-343h-.7v343Z" class="g1_2720"/>
+<path d="M848.9,467.1h.8V125.7h-.8V467.1Z" class="g1_2720"/>
+<path d="M68.6,125.7H849.7v-.8H68.6v.8Z" class="g1_2720"/>
+<path d="M68.6,179.1H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,218.8H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,258.6H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,298.3H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,354.8H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,411.4H849.7v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,467.9H849.7v-.8H68.6v.8Z" class="g1_2720"/>
+<path d="M68.6,619.9h.7v-97h-.7v97Z" class="g1_2720"/>
+<path d="M132.8,620.7h.8V522.1h-.8v98.6Z" class="g1_2720"/>
+<path d="M262.3,620.7h.7V522.1h-.7v98.6Z" class="g1_2720"/>
+<path d="M413,620.7h.7V522.1H413v98.6Z" class="g1_2720"/>
+<path d="M554,620.7h.8V522.1H554v98.6Z" class="g1_2720"/>
+<path d="M689.2,620.7h.8V522.1h-.8v98.6Z" class="g1_2720"/>
+<path d="M845.8,619.9h.7v-97h-.7v97Z" class="g1_2720"/>
+<path d="M68.6,522.9h778v-.8H68.6v.8Z" class="g1_2720"/>
+<path d="M68.6,547.3h778v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,571.8h778v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,596.2h778v-.7H68.6v.7Z" class="g1_2720"/>
+<path d="M68.6,620.7h778v-.8H68.6v.8Z" class="g1_2720"/>
+</svg>

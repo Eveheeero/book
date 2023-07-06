@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_424{
+fill: #FFF;
+}
+.g1_424{
+fill: #000;
+}
+.g2_424{
+fill: none;
+stroke: #000;
+stroke-width: 0.403;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g3_424{
+fill: #BFBFBF;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_424"/>
+<path d="M96.2,958.4h.7V318.2h-.7V958.4Z" class="g1_424"/>
+<path d="M824.3,958.4h.7V318.2h-.7V958.4Z" class="g1_424"/>
+<path d="M96.2,318.2H825v-.8H96.2v.8Z" class="g1_424"/>
+<path d="M96.2,959.1H825v-.7H96.2v.7Z" class="g1_424"/>
+<path d="M188.3,523h161V362.2h-161V523Z" class="g0_424"/>
+<path d="M188.3,523h161V362.2h-161V523Z" class="g2_424"/>
+<path d="M575.8,523h161V362.2h-161V523Z" class="g0_424"/>
+<path d="M575.8,523h161V362.2h-161V523Z" class="g2_424"/>
+<path d="M381.4,522H542.5V361.1H381.4V522Z" class="g0_424"/>
+<path d="M381.4,522H542.5V361.1H381.4V522Z" class="g2_424"/>
+<path d="M383.7,395.6h31.1V363.3H383.7v32.3Z" class="g3_424"/>
+<path d="M383.7,395.6h31.1V363.3H383.7v32.3ZM610.6,343.2v71.4" class="g2_424"/>
+<path fill-rule="evenodd" d="M614.3,413.7l-3.7,11.1l-3.7,-11.1h7.4Z" class="g1_424"/>
+<path d="M365.4,379.2h71.1" class="g2_424"/>
+<path fill-rule="evenodd" d="M435.6,375.6l11,3.6l-11,3.7v-7.3Z" class="g1_424"/>
+<path d="M190.5,396.7h31.6V364.4H190.5v32.3Z" class="g3_424"/>
+<path d="M190.5,396.7h31.6V364.4H190.5v32.3Z" class="g2_424"/>
+<path d="M223.7,396.7h31.6V364.4H223.7v32.3Z" class="g3_424"/>
+<path d="M223.7,396.7h31.6V364.4H223.7v32.3Z" class="g2_424"/>
+<path d="M578,396.7h31.7V364.4H578v32.3Z" class="g3_424"/>
+<path d="M578,396.7h31.7V364.4H578v32.3Z" class="g2_424"/>
+<path d="M611.7,396.7h31.6V364.4H611.7v32.3Z" class="g3_424"/>
+<path d="M611.7,396.7h31.6V364.4H611.7v32.3Z" class="g2_424"/>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_469{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M137.3,204h.4V184.5h-.4V204Z" class="g0_469"/>
+<path d="M137.1,422.4h.8V244.3h-.8V422.4Z" class="g0_469"/>
+<path d="M161,423.1h.7V243.6H161V423.1Z" class="g0_469"/>
+<path d="M196.9,204.6h.4V184.5h-.4v20.1Z" class="g0_469"/>
+<path d="M196.7,423.1h.7V203.8h-.7V423.1Z" class="g0_469"/>
+<path d="M271.8,423.1h.7V203.8h-.7V423.1Z" class="g0_469"/>
+<path d="M346.8,423.1h.7V203.8h-.7V423.1Z" class="g0_469"/>
+<path d="M421.8,423.1h.8V203.8h-.8V423.1Z" class="g0_469"/>
+<path d="M496.9,423.1h.8V203.8h-.8V423.1Z" class="g0_469"/>
+<path d="M572,423.1h.7V203.8H572V423.1Z" class="g0_469"/>
+<path d="M647.1,423.1h.7V203.8h-.7V423.1Z" class="g0_469"/>
+<path d="M722.1,423.1h.7V203.8h-.7V423.1Z" class="g0_469"/>
+<path d="M797.1,422.4h.8V204.6h-.8V422.4Z" class="g0_469"/>
+<path d="M137.3,184.5h60v-.3h-60v.3Z" class="g0_469"/>
+<path d="M137.3,204.4h60.1V204H137.3v.4Z" class="g0_469"/>
+<path d="M196.7,204.6H797.9v-.7H196.7v.7Z" class="g0_469"/>
+<path d="M196.7,224.4H797.9v-.7H196.7v.7Z" class="g0_469"/>
+<path d="M137.1,244.3H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M137.1,267H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M137.1,289.8H797.9V289H137.1v.8Z" class="g0_469"/>
+<path d="M137.1,309.6H797.9v-.8H137.1v.8Z" class="g0_469"/>
+<path d="M137.1,332.3H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M137.1,355H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M137.1,377.8H797.9V377H137.1v.8Z" class="g0_469"/>
+<path d="M137.1,400.4H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M137.1,423.1H797.9v-.7H137.1v.7Z" class="g0_469"/>
+<path d="M146.3,1054.9h.7V632.5h-.7v422.4Z" class="g0_469"/>
+<path d="M218.1,1055.7h.7V692.8h-.7v362.9Z" class="g0_469"/>
+<path d="M289.9,1055.7h.8v-424h-.8v424Z" class="g0_469"/>
+<path d="M361.7,1055.7h.7V692.8h-.7v362.9Z" class="g0_469"/>
+<path d="M433.5,1055.7h.7v-424h-.7v424Z" class="g0_469"/>
+<path d="M522.1,718.4h.8V631.7h-.8v86.7Z" class="g0_469"/>
+<path d="M522.1,786.4h.8V761.6h-.8v24.8Z" class="g0_469"/>
+<path d="M522.1,835.3h.8V810.4h-.8v24.9Z" class="g0_469"/>
+<path d="M522.1,908.6h.8V883.8h-.8v24.8Z" class="g0_469"/>
+<path d="M522.1,957.5h.8V932.7h-.8v24.8Z" class="g0_469"/>
+<path d="M522.1,1006.4h.8V981.6h-.8v24.8Z" class="g0_469"/>
+<path d="M610.8,718.4h.7V631.7h-.7v86.7Z" class="g0_469"/>
+<path d="M610.8,786.4h.7V761.6h-.7v24.8Z" class="g0_469"/>
+<path d="M610.8,835.3h.7V810.4h-.7v24.9Z" class="g0_469"/>
+<path d="M610.8,908.6h.7V883.8h-.7v24.8Z" class="g0_469"/>
+<path d="M610.8,957.5h.7V932.7h-.7v24.8Z" class="g0_469"/>
+<path d="M610.8,1006.4h.7V981.6h-.7v24.8Z" class="g0_469"/>
+<path d="M699.3,718.4h.8V631.7h-.8v86.7Z" class="g0_469"/>
+<path d="M699.3,786.4h.8V761.6h-.8v24.8Z" class="g0_469"/>
+<path d="M699.3,835.3h.8V810.4h-.8v24.9Z" class="g0_469"/>
+<path d="M699.3,908.6h.8V883.8h-.8v24.8Z" class="g0_469"/>
+<path d="M699.3,957.5h.8V932.7h-.8v24.8Z" class="g0_469"/>
+<path d="M699.3,1006.4h.8V981.6h-.8v24.8Z" class="g0_469"/>
+<path d="M788,1054.9h.7V632.5H788v422.4Z" class="g0_469"/>
+<path d="M146.3,632.5H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,693.5H434.2v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M147,719.1H788v-.7H147v.7Z" class="g0_469"/>
+<path d="M147,723H788v-.8H147v.8Z" class="g0_469"/>
+<path d="M146.3,762.3H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,811.3H788.7v-.8H146.3v.8Z" class="g0_469"/>
+<path d="M146.3,860.1H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,884.6H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,933.4H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,982.3H788.7v-.7H146.3v.7Z" class="g0_469"/>
+<path d="M146.3,1031.3H788.7v-.8H146.3v.8Z" class="g0_469"/>
+<path d="M146.3,1055.6H788.7v-.7H146.3v.7Z" class="g0_469"/>
+</svg>

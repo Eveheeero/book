@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p363" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_363{left:774px;bottom:68px;letter-spacing:0.09px;}
+#t2_363{left:820px;bottom:68px;letter-spacing:0.11px;}
+#t3_363{left:570px;bottom:1141px;letter-spacing:-0.14px;}
+#t4_363{left:105px;bottom:618px;letter-spacing:0.12px;word-spacing:0.02px;}
+#t5_363{left:197px;bottom:618px;letter-spacing:0.13px;word-spacing:-0.01px;}
+#t6_363{left:576px;bottom:1060px;letter-spacing:-0.19px;word-spacing:0.05px;}
+#t7_363{left:464px;bottom:670px;letter-spacing:0.11px;word-spacing:-0.01px;}
+#t8_363{left:274px;bottom:1008px;letter-spacing:-0.02px;word-spacing:0.13px;}
+#t9_363{left:576px;bottom:655px;letter-spacing:-0.22px;}
+#ta_363{left:273px;bottom:933px;letter-spacing:0.09px;word-spacing:0.03px;}
+#tb_363{left:576px;bottom:1008px;letter-spacing:-0.19px;word-spacing:0.05px;}
+#tc_363{left:273px;bottom:919px;letter-spacing:0.11px;word-spacing:-0.1px;}
+#td_363{left:273px;bottom:904px;letter-spacing:0.08px;word-spacing:0.12px;}
+#te_363{left:273px;bottom:890px;letter-spacing:0.09px;word-spacing:0.03px;}
+#tf_363{left:273px;bottom:844px;letter-spacing:0.11px;word-spacing:-0.01px;}
+#tg_363{left:406px;bottom:843px;letter-spacing:0.14px;word-spacing:-0.02px;}
+#th_363{left:510px;bottom:654px;}
+#ti_363{left:409px;bottom:671px;letter-spacing:0.06px;word-spacing:0.04px;}
+#tj_363{left:409px;bottom:655px;letter-spacing:0.06px;word-spacing:0.04px;}
+#tk_363{left:576px;bottom:699px;letter-spacing:-0.3px;}
+#tl_363{left:499px;bottom:713px;letter-spacing:0.14px;}
+#tm_363{left:500px;bottom:699px;letter-spacing:0.08px;}
+
+.s1_363{font-size:12px;font-family:NeoSansIntel_1uk1;color:#000;}
+.s2_363{font-size:14px;font-family:NeoSansIntel_1uk1;color:#0860A8;}
+.s3_363{font-size:15px;font-family:NeoSansIntelMedium_1uk0;color:#0860A8;}
+.s4_363{font-size:11px;font-family:Arial_3ed;color:#000;}
+.s5_363{font-size:12px;font-family:Arial_3ed;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts363" type="text/css" >
+
+@font-face {
+	font-family: Arial_3ed;
+	src: url("fonts/Arial_3ed.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntelMedium_1uk0;
+	src: url("fonts/NeoSansIntelMedium_1uk0.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntel_1uk1;
+	src: url("fonts/NeoSansIntel_1uk1.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg363Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg363" style="-webkit-user-select: none;"><object width="935" height="1210" data="363/363.svg" type="image/svg+xml" id="pdf363" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_363" class="t s1_363">Vol. 3A </span><span id="t2_363" class="t s1_363">10-23 </span>
+<span id="t3_363" class="t s2_363">PROCESSOR MANAGEMENT AND INITIALIZATION </span>
+<span id="t4_363" class="t s3_363">Figure 10-4. </span><span id="t5_363" class="t s3_363">Constructing Temporary GDT and Switching to Protected Mode (Lines 162-172 of List File) </span>
+<span id="t6_363" class="t s4_363">FFFF FFFFH </span>
+<span id="t7_363" class="t s5_363">Base=0, Limit=4G </span>
+<span id="t8_363" class="t s5_363">START: [CS.BASE+EIP] </span>
+<span id="t9_363" class="t s4_363">TEMP_GDT </span>
+<span id="ta_363" class="t s5_363">• Jump near start </span>
+<span id="tb_363" class="t s4_363">FFFF 0000H </span>
+<span id="tc_363" class="t s5_363">• Construct TEMP_GDT </span>
+<span id="td_363" class="t s5_363">• LGDT </span>
+<span id="te_363" class="t s5_363">• Move to protected mode </span>
+<span id="tf_363" class="t s5_363">DS, ES = GDT[1] </span><span id="tg_363" class="t s5_363">4 GB </span>
+<span id="th_363" class="t s5_363">0 </span>
+<span id="ti_363" class="t s5_363">GDT [1] </span>
+<span id="tj_363" class="t s5_363">GDT [0] </span>
+<span id="tk_363" class="t s4_363">GDT_SCRATCH </span>
+<span id="tl_363" class="t s5_363">Base </span>
+<span id="tm_363" class="t s5_363">Limit </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

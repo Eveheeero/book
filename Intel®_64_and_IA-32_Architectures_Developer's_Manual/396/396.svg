@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_396{
+fill: #FFF;
+}
+.g1_396{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_396"/>
+<path d="M71.7,731.4h.7V463.3h-.7V731.4Z" class="g1_396"/>
+<path d="M319.3,732.2h.7V462.6h-.7V732.2Z" class="g1_396"/>
+<path d="M584,732.2h.7V462.6H584V732.2Z" class="g1_396"/>
+<path d="M848.7,731.4h.8V463.3h-.8V731.4Z" class="g1_396"/>
+<path d="M71.7,463.3H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,487.8H849.5V487H71.7v.8Z" class="g1_396"/>
+<path d="M71.7,512.2H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,536.6H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,561.1H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,585.6H849.5v-.8H71.7v.8Z" class="g1_396"/>
+<path d="M71.7,609.9H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,634.4H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,658.9H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,683.3H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M71.7,707.8H849.5V707H71.7v.8Z" class="g1_396"/>
+<path d="M71.7,732.2H849.5v-.7H71.7v.7Z" class="g1_396"/>
+<path d="M69.3,933.2H70v-146h-.7v146Z" class="g1_396"/>
+<path d="M321.2,933.9h.7V786.5h-.7V933.9Z" class="g1_396"/>
+<path d="M588.6,933.9h.7V786.5h-.7V933.9Z" class="g1_396"/>
+<path d="M851.1,933.2h.8v-146h-.8v146Z" class="g1_396"/>
+<path d="M69.3,787.2H851.9v-.7H69.3v.7Z" class="g1_396"/>
+<path d="M69.3,811.6H851.9v-.7H69.3v.7Z" class="g1_396"/>
+<path d="M69.3,836.1H851.9v-.7H69.3v.7Z" class="g1_396"/>
+<path d="M69.3,860.6H851.9v-.8H69.3v.8Z" class="g1_396"/>
+<path d="M69.3,885H851.9v-.8H69.3v.8Z" class="g1_396"/>
+<path d="M69.3,909.4H851.9v-.7H69.3v.7Z" class="g1_396"/>
+<path d="M69.3,933.9H851.9v-.7H69.3v.7Z" class="g1_396"/>
+</svg>

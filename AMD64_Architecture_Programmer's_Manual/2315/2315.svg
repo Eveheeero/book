@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_2315"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_2315{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M96.3,63.3H838.8v-.4H96.3v.4Z" class="g0_2315"/>
+<path d="M96.1,1114.5h.2v-.4h-.2v.4Z" class="g0_2315"/>
+<path d="M96.3,1114.5H838.9v-.4H96.3v.4Z" class="g0_2315"/>
+<image clip-path="url(#c0_2315)" preserveAspectRatio="none" x="97" y="41" width="73" height="18" xlink:href="img/1.jpg"/>
+<path d="M207.7,713.1h.8V298.3h-.8V713.1Z" class="g0_2315"/>
+<path d="M464.2,713.9h.7V297.6h-.7V713.9Z" class="g0_2315"/>
+<path d="M726.6,713.1h.7V298.3h-.7V713.1Z" class="g0_2315"/>
+<path d="M207.7,298.3H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,322.8H727.3V322H207.7v.8Z" class="g0_2315"/>
+<path d="M207.7,347.1H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,371.6H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,396.1H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,420.5H727.3v-.8H207.7v.8Z" class="g0_2315"/>
+<path d="M207.7,444.9H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,469.4H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,493.8H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,518.3H727.3v-.8H207.7v.8Z" class="g0_2315"/>
+<path d="M207.7,542.8H727.3V542H207.7v.8Z" class="g0_2315"/>
+<path d="M207.7,567.1H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,591.6H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,616.1H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,640.5H727.3v-.8H207.7v.8Z" class="g0_2315"/>
+<path d="M207.7,664.9H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,689.4H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+<path d="M207.7,713.8H727.3v-.7H207.7v.7Z" class="g0_2315"/>
+</svg>

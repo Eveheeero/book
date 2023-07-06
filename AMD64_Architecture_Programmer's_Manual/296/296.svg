@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_296"><path d="M97.2,59V41.4h72.2V59Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_296{
+fill: #000;
+}
+.g1_296{
+fill: none;
+stroke: #000;
+stroke-width: 1.649;
+}
+.g2_296{
+fill: none;
+stroke: #000;
+stroke-width: 0.825;
+}
+.g3_296{
+fill: #FFF;
+}
+.g4_296{
+fill: #E5E5E5;
+}
+]]></style>
+</defs>
+<path d="M96.1,63.1v.3H838.9v-.3H96.1Z" class="g0_296"/>
+<path d="M96.1,1114.3v.3v-.3Z" class="g0_296"/>
+<path d="M838.9,1114.3v.3v-.3Z" class="g0_296"/>
+<path d="M96.1,1114.3v.3H838.9v-.3H96.1Z" class="g0_296"/>
+<image clip-path="url(#c0_296)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M543.5,497.5H513.8v-22h29.7v22Zm-29.7,0H484.1v-22h29.7v22Zm-29.7,0H454.4v-22h29.7v22Zm-29.7,0H424.7v-22h29.7v22Z" class="g1_296"/>
+<path d="M484.2,527.5V541H324.5V327.3h79.1V338" class="g2_296"/>
+<path d="M399.5,336.9l4.1,6.6l4.1,-6.6h-8.2Z" class="g0_296"/>
+<path d="M450.7,405.7L523.9,466Z" class="g0_296"/>
+<path d="M450.7,405.7L523.9,466" class="g2_296"/>
+<path d="M525.7,462.4l2.6,7.2l-8,-1.5l5.4,-5.7Z" class="g0_296"/>
+<path d="M421.1,406.3L466.8,466Z" class="g0_296"/>
+<path d="M421.1,406.3L466.8,466" class="g2_296"/>
+<path d="M462.7,467.3l7.4,3.2l-.7,-7.6l-6.7,4.4Z" class="g0_296"/>
+<path d="M431.3,398.8H461v-22H431.3v22Z" class="g3_296"/>
+<path d="M461,398.8H431.3v-22H461v22Z" class="g1_296"/>
+<path d="M401.6,398.8h29.7v-22H401.6v22Z" class="g3_296"/>
+<path d="M431.3,398.8H401.6v-22h29.7v22Z" class="g1_296"/>
+<path d="M342.2,398.8h59.4v-22H342.2v22Z" class="g4_296"/>
+<path d="M401.6,398.8H342.2v-22h59.4v22Zm223.3,0H595.2v-22h29.7v22Z" class="g1_296"/>
+<path d="M565.5,398.8h29.7v-22H565.5v22Z" class="g3_296"/>
+<path d="M595.2,398.8H565.5v-22h29.7v22Z" class="g1_296"/>
+<path d="M506.1,398.8h59.4v-22H506.1v22Z" class="g4_296"/>
+<path d="M565.5,398.8H506.1v-22h59.4v22Z" class="g1_296"/>
+<path d="M608.4,405.7l-102.5,61Z" class="g0_296"/>
+<path d="M608.4,405.7l-102.5,61" class="g2_296"/>
+<path d="M504.6,462.9l-3.6,6.8l8.2,-.5l-4.6,-6.3Z" class="g0_296"/>
+<path d="M580.6,405.4L446.4,467Z" class="g0_296"/>
+<path d="M580.6,405.4L446.4,467" class="g2_296"/>
+<path d="M445.7,463.1l-4.7,6.3l8.2,.5l-3.5,-6.8Z" class="g0_296"/>
+</svg>

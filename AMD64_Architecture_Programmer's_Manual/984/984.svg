@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_984"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_984{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_984"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_984"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_984"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_984"/>
+<image clip-path="url(#c0_984)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M96.8,519.8h-.7v545.7h.7V519.8Z" class="g0_984"/>
+<path d="M289.3,519h-.7v493.8h.7V519Z" class="g0_984"/>
+<path d="M515.4,519h-.7V890.5h.7V519Z" class="g0_984"/>
+<path d="M515.4,914.2h-.7v98.6h.7V914.2Z" class="g0_984"/>
+<path d="M838.9,519.8h-.7v545.7h.7V519.8Z" class="g0_984"/>
+<path d="M96.1,519.1v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,543.5v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,586.3v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,629.1v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,653.5v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,677.9v.8H838.9v-.8H96.1Z" class="g0_984"/>
+<path d="M96.1,702.4v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,726.8v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,751.3v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,775.7v.8H838.9v-.8H96.1Z" class="g0_984"/>
+<path d="M96.1,804.3v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,865.4v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M288.6,889.8v.7H838.9v-.7H288.6Z" class="g0_984"/>
+<path d="M96.1,914.2v.8H838.9v-.8H96.1Z" class="g0_984"/>
+<path d="M96.1,1012.1v.7H838.9v-.7H96.1Z" class="g0_984"/>
+<path d="M96.1,1065.5v.7H838.9v-.7H96.1Z" class="g0_984"/>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_136{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M78.9,491.8h.8v-357h-.8v357Z" class="g0_136"/>
+<path d="M161.4,492.5h.8v-331h-.8v331Z" class="g0_136"/>
+<path d="M244,492.5h.7V134H244V492.5Z" class="g0_136"/>
+<path d="M574,492.5h.8V134H574V492.5Z" class="g0_136"/>
+<path d="M662.7,492.5h.8V134h-.8V492.5Z" class="g0_136"/>
+<path d="M759.1,492.5h.7V134h-.7V492.5Z" class="g0_136"/>
+<path d="M855.3,491.8h.8v-357h-.8v357Z" class="g0_136"/>
+<path d="M78.9,134.8H856.1V134H78.9v.8Z" class="g0_136"/>
+<path d="M78.9,162.3H244.7v-.8H78.9v.8Z" class="g0_136"/>
+<path d="M79.8,187.9H855.2v-.7H79.8v.7Z" class="g0_136"/>
+<path d="M79.8,191.7H855.2v-.8H79.8v.8Z" class="g0_136"/>
+<path d="M78.9,298.3H856.1v-.7H78.9v.7Z" class="g0_136"/>
+<path d="M78.9,492.5H856.1v-.7H78.9v.7Z" class="g0_136"/>
+<path d="M175.4,757.6h.8V605.5h-.8V757.6Z" class="g0_136"/>
+<path d="M257.9,758.4h.8V604.8h-.8V758.4Z" class="g0_136"/>
+<path d="M340.4,758.4h.8V604.8h-.8V758.4Z" class="g0_136"/>
+<path d="M440.3,758.4h.7V632.3h-.7V758.4Z" class="g0_136"/>
+<path d="M546.3,758.4h.8V604.8h-.8V758.4Z" class="g0_136"/>
+<path d="M657.3,758.4h.8V632.3h-.8V758.4Z" class="g0_136"/>
+<path d="M758.8,757.6h.8V605.5h-.8V757.6Z" class="g0_136"/>
+<path d="M175.4,605.5H759.6v-.7H175.4v.7Z" class="g0_136"/>
+<path d="M340.4,633H759.6v-.7H340.4v.7Z" class="g0_136"/>
+<path d="M176.2,658.6H758.8v-.7H176.2v.7Z" class="g0_136"/>
+<path d="M176.2,662.5H758.8v-.8H176.2v.8Z" class="g0_136"/>
+<path d="M175.4,685H759.6v-.7H175.4v.7Z" class="g0_136"/>
+<path d="M175.4,709.5H759.6v-.7H175.4v.7Z" class="g0_136"/>
+<path d="M175.4,733.9H759.6v-.8H175.4v.8Z" class="g0_136"/>
+<path d="M175.4,758.4H759.6v-.8H175.4v.8Z" class="g0_136"/>
+</svg>

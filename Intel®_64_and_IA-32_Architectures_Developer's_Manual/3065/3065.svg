@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_3065"><path d="M189.5,482.7V238.3H733.2V482.7Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_3065{
+fill: #FFF;
+}
+.g1_3065{
+fill: #000;
+}
+.g2_3065{
+fill: none;
+stroke: #000;
+stroke-width: 0.304;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g3_3065{
+fill: none;
+stroke: #000;
+stroke-width: 1.066;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_3065"/>
+<path d="M158.5,494.5h.7V212.8h-.7V494.5Z" class="g1_3065"/>
+<path d="M763.5,494.5h.7V212.8h-.7V494.5Z" class="g1_3065"/>
+<path d="M158.5,212.8H764.2V212H158.5v.8Z" class="g1_3065"/>
+<path d="M158.5,495.4H764.2v-.8H158.5v.8Z" class="g1_3065"/>
+<path d="M71.6,862.8h.7V594.6h-.7V862.8Z" class="g1_3065"/>
+<path d="M157.1,863.6h.8V593.9h-.8V863.6Z" class="g1_3065"/>
+<path d="M850.4,862.8h.7V594.6h-.7V862.8Z" class="g1_3065"/>
+<path d="M71.6,594.6H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<path d="M71.6,617.6H851.1v-.8H71.6v.8Z" class="g1_3065"/>
+<path d="M71.6,661.8H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<path d="M71.6,684.8H851.1V684H71.6v.8Z" class="g1_3065"/>
+<path d="M71.6,729.1H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<path d="M71.6,752H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<path d="M71.6,796.3H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<path d="M71.6,840.6H851.1v-.8H71.6v.8Z" class="g1_3065"/>
+<path d="M71.6,863.5H851.1v-.7H71.6v.7Z" class="g1_3065"/>
+<g clip-path="url(#c0_3065)">
+<image x="619" y="256" width="98" height="56" xlink:href="shade/1.png"/>
+<image x="290" y="255" width="276" height="56" xlink:href="shade/2.png"/>
+<image x="592" y="256" width="15" height="56" xlink:href="shade/3.png"/>
+</g>
+<path d="M716.5,255.6v54.9M620.3,255.6v54.9M606.6,255.6v54.9M592.8,255.6v54.9M579.1,255.6v54.9M565.3,255.6v54.9" class="g2_3065"/>
+<path d="M290.7,310.5H730.2V255.6H290.7v54.9Z" class="g3_3065"/>
+<image clip-path="url(#c0_3065)" x="191" y="459" width="21" height="22" xlink:href="shade/4.png"/>
+<path d="M191.3,480.6h20.6V460H191.3v20.6ZM613.5,310.5v85H313.3m272.4,-85v57.4H306.4m417,-57.4V422.9H297.8M572.5,310.5v29.9H347.6" class="g2_3065"/>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_3783{
+fill: #FFF;
+}
+.g1_3783{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_3783"/>
+<path d="M69.9,956.1h.8V385.4h-.8V956.1Z" class="g1_3783"/>
+<path d="M254.7,956.8h.8V384.6h-.8V956.8Z" class="g1_3783"/>
+<path d="M309.9,956.8h.8V384.6h-.8V956.8Z" class="g1_3783"/>
+<path d="M849.4,956.1h.7V385.4h-.7V956.1Z" class="g1_3783"/>
+<path d="M69.9,385.4H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,409.8H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,434.3H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,475.6H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,499.9H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,524.4H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,548.9H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,573.3H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,597.8H850.1V597H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,622.2H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,646.6H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,671.1H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,712.3H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,736.8H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,761.2H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,785.7H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,810.2H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,834.5H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,859H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,883.5H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,907.9H850.1v-.8H69.9v.8Z" class="g1_3783"/>
+<path d="M69.9,932.3H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+<path d="M69.9,956.8H850.1v-.7H69.9v.7Z" class="g1_3783"/>
+</svg>

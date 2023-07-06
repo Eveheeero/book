@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p111" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_111{left:110px;bottom:1129px;letter-spacing:-0.19px;word-spacing:1.45px;}
+#t2_111{left:808px;bottom:1129px;letter-spacing:-0.17px;}
+#t3_111{left:177px;bottom:1083px;letter-spacing:0.03px;word-spacing:5.41px;}
+#t4_111{left:303px;bottom:1083px;letter-spacing:0.05px;word-spacing:5.38px;}
+#t5_111{left:152px;bottom:1065px;letter-spacing:0.03px;word-spacing:2.43px;}
+#t6_111{left:152px;bottom:1046px;letter-spacing:0.04px;word-spacing:1.34px;}
+#t7_111{left:152px;bottom:1028px;letter-spacing:0.07px;word-spacing:1.72px;}
+#t8_111{left:177px;bottom:1010px;letter-spacing:0.03px;word-spacing:4.57px;}
+#t9_111{left:152px;bottom:992px;letter-spacing:0.05px;word-spacing:3.29px;}
+#ta_111{left:152px;bottom:973px;letter-spacing:0.08px;word-spacing:3.8px;}
+#tb_111{left:152px;bottom:955px;letter-spacing:0.06px;word-spacing:1.75px;}
+#tc_111{left:177px;bottom:937px;letter-spacing:0.11px;}
+#td_111{left:238px;bottom:937px;letter-spacing:0.11px;}
+#te_111{left:358px;bottom:937px;letter-spacing:0.13px;}
+#tf_111{left:396px;bottom:937px;letter-spacing:0.11px;}
+#tg_111{left:475px;bottom:937px;letter-spacing:-0.02px;}
+#th_111{left:588px;bottom:937px;}
+#ti_111{left:715px;bottom:937px;letter-spacing:0.12px;}
+#tj_111{left:749px;bottom:937px;letter-spacing:0.12px;}
+#tk_111{left:152px;bottom:919px;letter-spacing:0.06px;word-spacing:3.43px;}
+#tl_111{left:152px;bottom:900px;letter-spacing:0.06px;word-spacing:0.73px;}
+
+.s1_111{font-size:17px;font-family:CMSL10_1g7;color:#000;}
+.s2_111{font-size:17px;font-family:CMR10_1fw;color:#000;}
+.s3_111{font-size:15px;font-family:CMTI10_1gf;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts111" type="text/css" >
+
+@font-face {
+	font-family: CMR10_1fw;
+	src: url("fonts/CMR10_1fw.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMSL10_1g7;
+	src: url("fonts/CMSL10_1g7.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMTI10_1gf;
+	src: url("fonts/CMTI10_1gf.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg111Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg111" style="-webkit-user-select: none;"><object width="935" height="1210" data="111/111.svg" type="image/svg+xml" id="pdf111" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_111" class="t s1_111">Volume II: RISC-V Privileged Architectures V20211203 </span><span id="t2_111" class="t s2_111">97 </span>
+<span id="t3_111" class="t s3_111">In typical usage, </span><span id="t4_111" class="t s3_111">software will invalidate a range of virtual addresses in the address- </span>
+<span id="t5_111" class="t s3_111">translation caches by executing an SFENCE.W.INVAL instruction, executing a series of SIN- </span>
+<span id="t6_111" class="t s3_111">VAL.VMA, HINVAL.VVMA, or HINVAL.GVMA instructions to the addresses (and optionally </span>
+<span id="t7_111" class="t s3_111">ASIDs or VMIDs) in question, and then executing an SFENCE.INVAL.IR instruction. </span>
+<span id="t8_111" class="t s3_111">High-performance implementations will be able to pipeline the address-translation cache </span>
+<span id="t9_111" class="t s3_111">invalidation operations, and will defer any pipeline stalls or other memory ordering enforce- </span>
+<span id="ta_111" class="t s3_111">ment until an SFENCE.W.INVAL, SFENCE.INVAL.IR, SFENCE.VMA, HFENCE.GVMA, </span>
+<span id="tb_111" class="t s3_111">or HFENCE.VVMA instruction is executed. </span>
+<span id="tc_111" class="t s3_111">Simpler </span><span id="td_111" class="t s3_111">implementations </span><span id="te_111" class="t s3_111">may </span><span id="tf_111" class="t s3_111">implement </span><span id="tg_111" class="t s3_111">SINVAL.VMA, </span><span id="th_111" class="t s3_111">HINVAL.VVMA, </span><span id="ti_111" class="t s3_111">and </span><span id="tj_111" class="t s3_111">HIN- </span>
+<span id="tk_111" class="t s3_111">VAL.GVMA identically to SFENCE.VMA, HFENCE.VVMA, and HFENCE.GVMA, respec- </span>
+<span id="tl_111" class="t s3_111">tively, while implementing SFENCE.W.INVAL and SFENCE.INVAL.IR instructions as no-ops. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

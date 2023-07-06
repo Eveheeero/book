@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p165" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_165{left:110px;bottom:1129px;letter-spacing:-0.21px;word-spacing:1.47px;}
+#t2_165{left:800px;bottom:1129px;letter-spacing:-0.17px;}
+#t3_165{left:110px;bottom:1082px;letter-spacing:0.13px;word-spacing:2.28px;}
+#t4_165{left:110px;bottom:1036px;letter-spacing:-0.15px;word-spacing:1.4px;}
+#t5_165{left:110px;bottom:1015px;letter-spacing:-0.14px;word-spacing:1.48px;}
+#t6_165{left:110px;bottom:994px;letter-spacing:-0.18px;word-spacing:1.3px;}
+#t7_165{left:110px;bottom:973px;letter-spacing:-0.16px;word-spacing:1.42px;}
+#t8_165{left:110px;bottom:913px;letter-spacing:0.14px;word-spacing:2.28px;}
+#t9_165{left:110px;bottom:867px;letter-spacing:-0.15px;word-spacing:2.52px;}
+#ta_165{left:110px;bottom:846px;letter-spacing:-0.19px;word-spacing:2.37px;}
+#tb_165{left:110px;bottom:826px;letter-spacing:-0.13px;word-spacing:2.53px;}
+#tc_165{left:110px;bottom:805px;letter-spacing:-0.15px;word-spacing:0.96px;}
+#td_165{left:110px;bottom:784px;letter-spacing:-0.21px;word-spacing:2.39px;}
+#te_165{left:110px;bottom:763px;letter-spacing:-0.16px;word-spacing:1.42px;}
+#tf_165{left:110px;bottom:728px;letter-spacing:-0.18px;word-spacing:0.55px;}
+#tg_165{left:110px;bottom:707px;letter-spacing:-0.15px;word-spacing:2.92px;}
+#th_165{left:110px;bottom:686px;letter-spacing:-0.13px;word-spacing:1.37px;}
+
+.s1_165{font-size:17px;font-family:CMSL10_27d;color:#000;}
+.s2_165{font-size:17px;font-family:CMR10_270;color:#000;}
+.s3_165{font-size:18px;font-family:CMBX12_26j;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts165" type="text/css" >
+
+@font-face {
+	font-family: CMBX12_26j;
+	src: url("fonts/CMBX12_26j.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMR10_270;
+	src: url("fonts/CMR10_270.woff") format("woff");
+}
+
+@font-face {
+	font-family: CMSL10_27d;
+	src: url("fonts/CMSL10_27d.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg165Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg165" style="-webkit-user-select: none;"><object width="935" height="1210" data="165/165.svg" type="image/svg+xml" id="pdf165" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_165" class="t s1_165">Volume I: RISC-V Unprivileged ISA V20191213 </span><span id="t2_165" class="t s2_165">147 </span>
+<span id="t3_165" class="t s3_165">Fixed-Size Instruction Bundles </span>
+<span id="t4_165" class="t s2_165" data-mappings='[[75,"fi"]]'>Another approach, similar to Itanium, is to use a larger naturally aligned ﬁxed instruction bundle </span>
+<span id="t5_165" class="t s2_165" data-mappings='[[85,"fi"]]'>size (e.g., 128 bits) across which parallel operation groups are encoded. This simpliﬁes instruction </span>
+<span id="t6_165" class="t s2_165">fetch, but shifts the complexity to the group execution engine. To remain RISC-V compatible, the </span>
+<span id="t7_165" class="t s2_165">base 32-bit instruction would still have to be supported. </span>
+<span id="t8_165" class="t s3_165" data-mappings='[[24,"fi"]]'>End-of-Group bits in Preﬁx </span>
+<span id="t9_165" class="t s2_165">None of the above approaches retains the RISC-V encoding for the individual operations within </span>
+<span id="ta_165" class="t s2_165" data-mappings='[[68,"fi"],[83,"fi"]]'>a VLIW instruction. Yet another approach is to repurpose the two preﬁx bits in the ﬁxed-width </span>
+<span id="tb_165" class="t s2_165" data-mappings='[[24,"fi"]]'>32-bit encoding. One preﬁx bit can be used to signal “end-of-group” if set, while the second bit </span>
+<span id="tc_165" class="t s2_165">could indicate execution under a predicate if clear. Standard RISC-V 32-bit instructions generated </span>
+<span id="td_165" class="t s2_165" data-mappings='[[58,"fi"]]'>by tools unaware of the VLIW extension would have both preﬁx bits set (11) and thus have the </span>
+<span id="te_165" class="t s2_165">correct semantics, with each instruction at the end of a group and not predicated. </span>
+<span id="tf_165" class="t s2_165">The main disadvantage of this approach is that the base ISA lacks the complex predication support </span>
+<span id="tg_165" class="t s2_165" data-mappings='[[59,"ffi"]]'>usually required in an aggressive VLIW system, and it is diﬃcult to add space to specify more </span>
+<span id="th_165" class="t s2_165">predicate registers in the standard 30-bit encoding space. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

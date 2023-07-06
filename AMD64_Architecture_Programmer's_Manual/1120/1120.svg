@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1120"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1120{
+fill: #000;
+}
+.g1_1120{
+fill: #DFDFDF;
+}
+.g2_1120{
+fill: #E5E5E5;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_1120"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_1120"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_1120"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_1120"/>
+<image clip-path="url(#c0_1120)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M96.9,317.8h718v56.5H96.9V317.8Z" class="g1_1120"/>
+<path d="M96.2,415.5h55.6v19.9H96.2V415.5Z" class="g1_1120"/>
+<path d="M151.8,415.5H271.6v19.9H151.8V415.5Z" class="g1_1120"/>
+<path d="M271.6,415.5H582.5v19.9H271.6V415.5Z" class="g1_1120"/>
+<path d="M582.5,415.5H665v19.9H582.5V415.5Z" class="g1_1120"/>
+<path d="M96.2,1037.3H838.7v53.5H96.2v-53.5Z" class="g2_1120"/>
+<path d="M97.3,318.2h-.8v54.6h.8V318.2Z" class="g0_1120"/>
+<path d="M815.3,317.3h-.8v58.5h.8V317.3Z" class="g0_1120"/>
+<path d="M839.6,318.2h-3v54.6h3V318.2Z" class="g0_1120"/>
+<path d="M96.5,317.4v.8H839.6v-.8H96.5Z" class="g0_1120"/>
+<path d="M96.5,372.8v3H839.6v-3H96.5Z" class="g0_1120"/>
+<path d="M96.2,415.1v.8H665v-.8H96.2Z" class="g0_1120"/>
+<path d="M96.2,454.9v.8H665v-.8H96.2Z" class="g0_1120"/>
+<path d="M96.6,1037.7h-.7v51.6h.7v-51.6Z" class="g0_1120"/>
+<path d="M840.3,1037.7h-3.1v51.6h3.1v-51.6Z" class="g0_1120"/>
+<path d="M95.9,1037v.7H840.3v-.7H95.9Z" class="g0_1120"/>
+<path d="M95.9,1089.3v3H840.3v-3H95.9Z" class="g0_1120"/>
+<path d="M65.6,151.2h3.1V731.7H65.6V151.2Z" class="g0_1120"/>
+<path d="M65.6,770h3.1v246H65.6V770Z" class="g0_1120"/>
+</svg>

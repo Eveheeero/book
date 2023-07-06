@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_4273{
+fill: #FFF;
+}
+.g1_4273{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_4273"/>
+<path d="M71.3,436.6h.8V322.8h-.8V436.6Z" class="g1_4273"/>
+<path d="M184.1,437.3h.7V322h-.7V437.3Z" class="g1_4273"/>
+<path d="M297.7,437.3h.8V322h-.8V437.3Z" class="g1_4273"/>
+<path d="M387.6,437.3h.7V322h-.7V437.3Z" class="g1_4273"/>
+<path d="M850.7,436.6h.7V322.8h-.7V436.6Z" class="g1_4273"/>
+<path d="M71.3,322.8H851.4V322H71.3v.8Z" class="g1_4273"/>
+<path d="M71.3,345.7H851.4v-.8H71.3v.8Z" class="g1_4273"/>
+<path d="M71.3,368.6H851.4v-.7H71.3v.7Z" class="g1_4273"/>
+<path d="M71.3,391.5H851.4v-.7H71.3v.7Z" class="g1_4273"/>
+<path d="M71.3,414.4H851.4v-.7H71.3v.7Z" class="g1_4273"/>
+<path d="M71.3,437.3H851.4v-.7H71.3v.7Z" class="g1_4273"/>
+<path d="M72,933.2h.7V608.5H72V933.2Z" class="g1_4273"/>
+<path d="M216.3,933.9h.8V607.7h-.8V933.9Z" class="g1_4273"/>
+<path d="M850,933.2h.8V608.5H850V933.2Z" class="g1_4273"/>
+<path d="M71.9,608.5H850.8v-.8H71.9v.8Z" class="g1_4273"/>
+<path d="M71.9,631.4H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,654.3H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,694H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,733.7H850.8V733H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,773.5H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,796.4H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,819.3H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,842.2H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+<path d="M71.9,865.2H850.8v-.8H71.9v.8Z" class="g1_4273"/>
+<path d="M71.9,888.1H850.8v-.8H71.9v.8Z" class="g1_4273"/>
+<path d="M71.9,911H850.8v-.8H71.9v.8Z" class="g1_4273"/>
+<path d="M71.9,933.9H850.8v-.7H71.9v.7Z" class="g1_4273"/>
+</svg>

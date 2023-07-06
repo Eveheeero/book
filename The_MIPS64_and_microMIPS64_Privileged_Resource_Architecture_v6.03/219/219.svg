@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_219{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M83.2,913.6H84V134.8h-.8V913.6Z" class="g0_219"/>
+<path d="M165.7,914.3h.8V161.5h-.8V914.3Z" class="g0_219"/>
+<path d="M234.5,914.3h.7V134h-.7V914.3Z" class="g0_219"/>
+<path d="M564.6,914.3h.7V134h-.7V914.3Z" class="g0_219"/>
+<path d="M658.5,914.3h.8V134h-.8V914.3Z" class="g0_219"/>
+<path d="M741,914.3h.8V134H741V914.3Z" class="g0_219"/>
+<path d="M851,913.6h.8V134.8H851V913.6Z" class="g0_219"/>
+<path d="M83.2,134.8H851.8V134H83.2v.8Z" class="g0_219"/>
+<path d="M83.2,162.3H235.3v-.8H83.2v.8Z" class="g0_219"/>
+<path d="M84,187.9H851v-.7H84v.7Z" class="g0_219"/>
+<path d="M84,191.7H851v-.8H84v.8Z" class="g0_219"/>
+<path d="M83.2,406.4H851.8v-.8H83.2v.8Z" class="g0_219"/>
+<path d="M83.2,914.3H851.8v-.7H83.2v.7Z" class="g0_219"/>
+<path d="M248.4,315.2h.4V248.4h-.4v66.8Z" class="g0_219"/>
+<path d="M330.9,315.7h.4V248h-.4v67.7Z" class="g0_219"/>
+<path d="M551,315.2h.4V248.4H551v66.8Z" class="g0_219"/>
+<path d="M248.4,248.4h303V248h-303v.4Z" class="g0_219"/>
+<path d="M248.8,271.9H550.9v-.7H248.8v.7Z" class="g0_219"/>
+<path d="M248.8,274.2H550.9v-.8H248.8v.8Z" class="g0_219"/>
+<path d="M248.4,294.2h303v-.3h-303v.3Z" class="g0_219"/>
+<path d="M248.4,315.7h303v-.4h-303v.4Z" class="g0_219"/>
+<path d="M248.4,614.7h.4V480.6h-.4V614.7Z" class="g0_219"/>
+<path d="M330.9,615.1h.4V480.2h-.4V615.1Z" class="g0_219"/>
+<path d="M551,614.7h.4V480.6H551V614.7Z" class="g0_219"/>
+<path d="M248.4,480.6h303v-.4h-303v.4Z" class="g0_219"/>
+<path d="M248.8,504.1H550.9v-.8H248.8v.8Z" class="g0_219"/>
+<path d="M248.8,506.4H550.9v-.8H248.8v.8Z" class="g0_219"/>
+<path d="M248.4,560.1h303v-.4h-303v.4Z" class="g0_219"/>
+<path d="M248.4,615.1h303v-.4h-303v.4Z" class="g0_219"/>
+</svg>

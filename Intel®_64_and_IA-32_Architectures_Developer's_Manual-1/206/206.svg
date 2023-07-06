@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_206{
+fill: #FFF;
+}
+.g1_206{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_206"/>
+<path d="M170.5,620.9h.7V319.1h-.7V620.9Z" class="g1_206"/>
+<path d="M749.8,620.9h.8V319.1h-.8V620.9Z" class="g1_206"/>
+<path d="M170.5,319.1H750.6v-.7H170.5v.7Z" class="g1_206"/>
+<path d="M170.5,621.6H750.6v-.7H170.5v.7Z" class="g1_206"/>
+<path d="M380.7,405H588.1v-.8H380.7v.8Z" class="g1_206"/>
+<path d="M587.4,440.2h.7V404.6h-.7v35.6Z" class="g1_206"/>
+<path d="M380.3,440.2H587.8v-.7H380.3v.7Z" class="g1_206"/>
+<path d="M380.3,439.8h.8V404.2h-.8v35.6Z" class="g1_206"/>
+<path d="M407,404.9h.5v-.2H407v.2Z" class="g1_206"/>
+<path d="M407,439.4h.5V404.9H407v34.5Z" class="g1_206"/>
+<path d="M394,405.2h.4V405H394v.2Z" class="g1_206"/>
+<path d="M394,439.6h.4V405.2H394v34.4Z" class="g1_206"/>
+<path d="M446,404.8h.5v-.2H446v.2Z" class="g1_206"/>
+<path d="M446,439.3h.5V404.8H446v34.5Z" class="g1_206"/>
+<path d="M459.2,404.6h.4v-.2h-.4v.2Z" class="g1_206"/>
+<path d="M459.2,439.1h.4V404.6h-.4v34.5Z" class="g1_206"/>
+<path d="M472.2,405.3h.4v-.2h-.4v.2Z" class="g1_206"/>
+<path d="M472.2,439.7h.4V405.3h-.4v34.4Z" class="g1_206"/>
+<path d="M485.1,405.3h.5v-.2h-.5v.2Z" class="g1_206"/>
+<path d="M485.1,439.7h.5V405.3h-.5v34.4Z" class="g1_206"/>
+<path d="M498,405.4h.5v-.2H498v.2Z" class="g1_206"/>
+<path d="M498,439.8h.5V405.4H498v34.4Z" class="g1_206"/>
+<path d="M510.9,404.9h.4v-.2h-.4v.2Z" class="g1_206"/>
+<path d="M510.9,439.4h.4V404.9h-.4v34.5Z" class="g1_206"/>
+<path d="M575,405.3h.5v-.2H575v.2Z" class="g1_206"/>
+<path d="M575,439.7h.5V405.3H575v34.4Z" class="g1_206"/>
+<path d="M523.6,404.9h.5v-.2h-.5v.2Z" class="g1_206"/>
+<path d="M523.6,439.3h.5V404.9h-.5v34.4Z" class="g1_206"/>
+<path d="M536.4,404.9h.5v-.2h-.5v.2Z" class="g1_206"/>
+<path d="M536.4,439.3h.5V404.9h-.5v34.4Z" class="g1_206"/>
+<path d="M549.1,404.6h.4v-.2h-.4v.2Z" class="g1_206"/>
+<path d="M549.1,439.1h.4V404.6h-.4v34.5Z" class="g1_206"/>
+<path d="M562,404.7h.5v-.2H562v.2Z" class="g1_206"/>
+<path d="M562,439.2h.5V404.7H562v34.5Z" class="g1_206"/>
+<path d="M387.6,347.5h94.3v-.4H387.6v.4Z" class="g1_206"/>
+<path d="M387.6,391.4h.4V347.2h-.4v44.2Z" class="g1_206"/>
+<path d="M427.1,362.1h54.8v-.5H427.1v.5Z" class="g1_206"/>
+<path d="M427.1,391.6h.4V361.8h-.4v29.8Z" class="g1_206"/>
+<path d="M367.3,479.8H480.1v-.5H367.3v.5Z" class="g1_206"/>
+<path d="M479.6,479.5h.5v-35h-.5v35Z" class="g1_206"/>
+<path d="M429.7,608.4H581.8v-.5H429.7v.5Z" class="g1_206"/>
+<path d="M581.3,608.1h.5V443.9h-.5V608.1Z" class="g1_206"/>
+<path d="M462.2,593.1H570v-.5H462.2v.5Z" class="g1_206"/>
+<path d="M569.5,592.8h.5V444.1h-.5V592.8Z" class="g1_206"/>
+<path d="M399.7,580.6H557.2v-.4H399.7v.4Z" class="g1_206"/>
+<path d="M556.8,580.3h.4V444.9h-.4V580.3Z" class="g1_206"/>
+<path d="M386.8,566H544.1v-.5H386.8v.5Z" class="g1_206"/>
+<path d="M543.7,565.7h.4V445.4h-.4V565.7Z" class="g1_206"/>
+<path d="M392.1,552h139v-.4h-139v.4Z" class="g1_206"/>
+<path d="M530.7,551.7h.4V444.8h-.4V551.7Z" class="g1_206"/>
+<path d="M387.5,536.7H518.2v-.4H387.5v.4Z" class="g1_206"/>
+<path d="M517.7,536.4h.5V444.6h-.5v91.8Z" class="g1_206"/>
+<path d="M400.8,444.5h.4v-.2h-.4v.2Z" class="g1_206"/>
+<path d="M400.8,479.8h.4V444.5h-.4v35.3Z" class="g1_206"/>
+<path d="M452.9,444.3h.5v-.2h-.5v.2Z" class="g1_206"/>
+<path d="M452.9,479.6h.5V444.3h-.5v35.3Z" class="g1_206"/>
+<path d="M466.1,444.3h.5v-.2h-.5v.2Z" class="g1_206"/>
+<path d="M466.1,479.6h.5V444.3h-.5v35.3Z" class="g1_206"/>
+<path d="M475.1,494.5h17.3V494H475.1v.5Z" class="g1_206"/>
+<path d="M492,494.2h.4V444.5H492v49.7Z" class="g1_206"/>
+<path d="M388.2,509.1H505.3v-.4H388.2v.4Z" class="g1_206"/>
+<path d="M504.8,508.8h.5V444.5h-.5v64.3Z" class="g1_206"/>
+</svg>

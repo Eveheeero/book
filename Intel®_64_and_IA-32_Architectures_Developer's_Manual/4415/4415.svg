@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_4415{
+fill: #FFF;
+}
+.g1_4415{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_4415"/>
+<path d="M69.3,305.2H70V141h-.7V305.2Z" class="g1_4415"/>
+<path d="M164.5,306h.7V140.2h-.7V306Z" class="g1_4415"/>
+<path d="M304.9,306h.7V140.2h-.7V306Z" class="g1_4415"/>
+<path d="M392.3,306h.8V202.9h-.8V306Z" class="g1_4415"/>
+<path d="M487.9,306h.7V163.1h-.7V306Z" class="g1_4415"/>
+<path d="M579.1,306h.7V202.9h-.7V306Z" class="g1_4415"/>
+<path d="M670.3,306h.7V163.1h-.7V306Z" class="g1_4415"/>
+<path d="M761.5,306h.7V202.9h-.7V306Z" class="g1_4415"/>
+<path d="M852.7,305.2h.7V141h-.7V305.2Z" class="g1_4415"/>
+<path d="M69.3,140.9H853.4v-.7H69.3v.7Z" class="g1_4415"/>
+<path d="M304.9,163.8H853.4v-.7H304.9v.7Z" class="g1_4415"/>
+<path d="M304.9,203.6H853.4v-.7H304.9v.7Z" class="g1_4415"/>
+<path d="M69.3,226.5H853.4v-.7H69.3v.7Z" class="g1_4415"/>
+<path d="M164.5,266.2H853.4v-.7H164.5v.7Z" class="g1_4415"/>
+<path d="M69.3,305.9H853.4v-.7H69.3v.7Z" class="g1_4415"/>
+<path d="M69.5,633.7h.7V389.9h-.7V633.7Z" class="g1_4415"/>
+<path d="M239,634.4h.7V389.2H239V634.4Z" class="g1_4415"/>
+<path d="M370.1,634.4h.7V389.2h-.7V634.4Z" class="g1_4415"/>
+<path d="M452.5,634.4h.7V389.2h-.7V634.4Z" class="g1_4415"/>
+<path d="M852.5,633.7h.7V389.9h-.7V633.7Z" class="g1_4415"/>
+<path d="M69.5,389.9H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,414.4H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,438.9H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,463.3H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,487.8H853.2V487H69.5v.8Z" class="g1_4415"/>
+<path d="M69.5,512.2H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,536.6H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,561.1H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,585.6H853.2v-.8H69.5v.8Z" class="g1_4415"/>
+<path d="M69.5,609.9H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+<path d="M69.5,634.4H853.2v-.7H69.5v.7Z" class="g1_4415"/>
+</svg>

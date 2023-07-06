@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_766"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_766{
+fill: #000;
+}
+.g1_766{
+fill: #FFF;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_766"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_766"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_766"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_766"/>
+<image clip-path="url(#c0_766)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M614,574.2H735.5v24H614v-24Z" class="g1_766"/>
+<path d="M614,573.8H735.9v.7H614v-.7Z" class="g0_766"/>
+<path d="M735.1,574.2h.8v24.4h-.8V574.2Z" class="g0_766"/>
+<path d="M613.7,597.8H735.5v.8H613.7v-.8Z" class="g0_766"/>
+<path d="M613.7,573.8h.7v24.4h-.7V573.8Z" class="g0_766"/>
+<path d="M614,598.2H735.5v24.1H614V598.2Z" class="g1_766"/>
+<path d="M614,597.8H735.9v.8H614v-.8Z" class="g0_766"/>
+<path d="M735.1,598.2h.8v24.5h-.8V598.2Z" class="g0_766"/>
+<path d="M613.7,621.9H735.5v.8H613.7v-.8Z" class="g0_766"/>
+<path d="M613.7,597.8h.7v24.5h-.7V597.8Z" class="g0_766"/>
+<path d="M614,550.1H735.5v24.1H614V550.1Z" class="g1_766"/>
+<path d="M614,549.7H735.9v.7H614v-.7Z" class="g0_766"/>
+<path d="M735.1,550.1h.8v24.4h-.8V550.1Z" class="g0_766"/>
+<path d="M613.7,573.8H735.5v.7H613.7v-.7Z" class="g0_766"/>
+<path d="M613.7,549.7h.7v24.5h-.7V549.7Z" class="g0_766"/>
+<path d="M614,622.3H735.5v24H614v-24Z" class="g1_766"/>
+<path d="M614,621.9H735.9v.8H614v-.8Z" class="g0_766"/>
+<path d="M735.1,622.3h.8v24.4h-.8V622.3Z" class="g0_766"/>
+<path d="M613.7,645.9H735.5v.8H613.7v-.8Z" class="g0_766"/>
+<path d="M613.7,621.9h.7v24.4h-.7V621.9Z" class="g0_766"/>
+<path d="M614,646.3H735.5v24.1H614V646.3Z" class="g1_766"/>
+<path d="M614,645.9H735.9v.8H614v-.8Z" class="g0_766"/>
+<path d="M735.1,646.3h.8v24.5h-.8V646.3Z" class="g0_766"/>
+<path d="M613.7,670.1H735.5v.7H613.7v-.7Z" class="g0_766"/>
+<path d="M613.7,645.9h.7v24.5h-.7V645.9Z" class="g0_766"/>
+<path d="M200.8,472.5H344v24.1H200.8V472.5Z" class="g1_766"/>
+<path d="M200.8,472.2H344.4v.7H200.8v-.7Z" class="g0_766"/>
+<path d="M343.6,472.5h.8V497h-.8V472.5Z" class="g0_766"/>
+<path d="M200.5,496.3H344v.7H200.5v-.7Z" class="g0_766"/>
+<path d="M200.5,472.2h.7v24.4h-.7V472.2Z" class="g0_766"/>
+<path d="M200.8,496.6H344v24H200.8v-24Z" class="g1_766"/>
+<path d="M200.8,496.3H344.4v.7H200.8v-.7Z" class="g0_766"/>
+<path d="M343.6,496.6h.8V521h-.8V496.6Z" class="g0_766"/>
+<path d="M200.5,520.3H344v.7H200.5v-.7Z" class="g0_766"/>
+<path d="M200.5,496.3h.7v24.3h-.7V496.3Z" class="g0_766"/>
+<path d="M200.8,448.5H344v24H200.8v-24Z" class="g1_766"/>
+<path d="M200.8,448.1H344.4v.8H200.8v-.8Z" class="g0_766"/>
+<path d="M343.6,448.5h.8v24.4h-.8V448.5Z" class="g0_766"/>
+<path d="M200.5,472.2H344v.7H200.5v-.7Z" class="g0_766"/>
+<path d="M200.5,448.1h.7v24.4h-.7V448.1Z" class="g0_766"/>
+<path d="M596.3,560.7v-5l1,.2l14.1,4.1l2.6,.7l-2.6,.7l-14.1,4.1l-1,.2v-1l.5,-.7l14.1,-4l.5,1.4h-.5l-14.1,-4l.5,-1.5l.5,.8v4h-1.5Z" class="g0_766"/>
+<path d="M596.3,564.7v-4h1.5v4h-1.5Z" class="g0_766"/>
+<path fill-rule="evenodd" d="M597,560.7v-4l14.1,4l-14.1,4v-4Z" class="g0_766"/>
+<path d="M344.7,533.9h-.4v.8h.4v-.8Z" class="g0_766"/>
+<path d="M344.7,533.9h43.4v.8H344.7v-.8Z" class="g0_766"/>
+<path d="M387.4,534.3h.7v26.8h-.7V534.3Z" class="g0_766"/>
+<path d="M596.3,560.3h.3v.8h-.3v-.8Z" class="g0_766"/>
+<path d="M387.7,560.3v.8H596.3v-.8H387.7Z" class="g0_766"/>
+<path d="M200.8,520.6H344v24.2H200.8V520.6Z" class="g1_766"/>
+<path d="M200.8,520.3H344.4v.7H200.8v-.7Z" class="g0_766"/>
+<path d="M343.6,520.6h.8v24.5h-.8V520.6Z" class="g0_766"/>
+<path d="M200.5,544.4H344v.7H200.5v-.7Z" class="g0_766"/>
+<path d="M200.5,520.3h.7v24.5h-.7V520.3Z" class="g0_766"/>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_170{
+fill: #FFF;
+}
+.g1_170{
+fill: #000;
+}
+.g2_170{
+fill: none;
+stroke: #000;
+stroke-width: 0.342;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_170"/>
+<path d="M170.5,975.6h.7V113.5h-.7V975.6Z" class="g1_170"/>
+<path d="M749.8,975.6h.8V113.5h-.8V975.6Z" class="g1_170"/>
+<path d="M170.5,113.4H750.6v-.7H170.5v.7Z" class="g1_170"/>
+<path d="M170.5,976.3H750.6v-.7H170.5v.7Z" class="g1_170"/>
+<path d="M370.1,223.2l-.3,180.2M233.4,223.2V403.4M375.8,249.9h11.9" class="g2_170"/>
+<path fill-rule="evenodd" d="M376.6,253l-6.3,-3.1l6.3,-3.1V253Z" class="g1_170"/>
+<path d="M233.5,320.3H370.1V292.8H233.5v27.5Zm0,-27.5H370.1V265.3H233.5v27.5Zm0,-27.5H370.1V237.8H233.5v27.5Zm0,110H370.1V347.8H233.5v27.5Zm0,-27.5H370.1V320.3H233.5v27.5ZM376.3,334.1h11.8" class="g2_170"/>
+<path fill-rule="evenodd" d="M377,337.2l-6.2,-3.1L377,331v6.2Z" class="g1_170"/>
+<path d="M704.3,502.8V654.6M567.6,626.2H704.2V598.7H567.6v27.5Zm0,-123.4v149M351.6,529.6h11.9" class="g2_170"/>
+<path fill-rule="evenodd" d="M352.4,532.7l-6.3,-3.1l6.3,-3.3v6.4Z" class="g1_170"/>
+<path d="M345.9,502.8V653.7M209.3,599.9H345.9V572.4H209.3v27.5Zm0,-27.5H345.9V544.9H209.3v27.5Zm0,-27.5H345.9V517.4H209.3v27.5Zm0,82.5H345.9V599.9H209.3v27.5Zm-.1,-124.6v150m341,-92.6H562" class="g2_170"/>
+<path fill-rule="evenodd" d="M561.3,557.1l6.1,3.1l-6.1,3.1v-6.2Z" class="g1_170"/>
+<path d="M707,751.2V953.5M570.3,874.7H706.9V847.2H570.3v27.5Zm.1,-123.5V951.7M354.4,778h11.8" class="g2_170"/>
+<path fill-rule="evenodd" d="M355.1,781.1L348.9,778l6.2,-3.1v6.2Z" class="g1_170"/>
+<path d="M348.6,751.2v151M212,848.4H348.6V820.9H212v27.5Zm0,-27.5H348.6V793.4H212v27.5Zm0,-27.5H348.6V765.9H212v27.5Zm0,82.5H348.6V848.4H212v27.5Zm-.1,-124.7V901.3m340.9,15.2h11.8" class="g2_170"/>
+<path fill-rule="evenodd" d="M563.8,913.4l6.3,3.1l-6.3,3.1v-6.2Z" class="g1_170"/>
+<path d="M570.4,929.5H707V902H570.4v27.5Zm0,-27.5H707V874.5H570.4V902Z" class="g2_170"/>
+</svg>

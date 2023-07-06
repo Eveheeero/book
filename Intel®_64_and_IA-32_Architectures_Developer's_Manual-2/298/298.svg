@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_298{
+fill: #FFF;
+}
+.g1_298{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M165,1149.3H852.5v-21.2H165v21.2Z" class="g0_298"/>
+<path d="M68.8,1149.3h82.5v-21.2H68.8v21.2Z" class="g0_298"/>
+<path d="M68.6,568h.7V125.7h-.7V568Z" class="g1_298"/>
+<path d="M285.3,568.7h.7V124.9h-.7V568.7Z" class="g1_298"/>
+<path d="M333.6,568.7h.7V124.9h-.7V568.7Z" class="g1_298"/>
+<path d="M408.1,568.7h.7V124.9h-.7V568.7Z" class="g1_298"/>
+<path d="M492.3,568.7h.7V124.9h-.7V568.7Z" class="g1_298"/>
+<path d="M853.4,568h.7V125.7h-.7V568Z" class="g1_298"/>
+<path d="M68.6,125.7H854.2v-.8H68.6v.8Z" class="g1_298"/>
+<path d="M68.6,179.1H854.2v-.7H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,235.7H854.2v-.8H68.6v.8Z" class="g1_298"/>
+<path d="M68.6,292.1H854.2v-.7H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,348.7H854.2V348H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,422H854.2v-.7H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,495.4H854.2v-.8H68.6v.8Z" class="g1_298"/>
+<path d="M68.6,568.7H854.2V568H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,720.8h.7V623.7h-.7v97.1Z" class="g1_298"/>
+<path d="M152.1,721.5h.7V623h-.7v98.5Z" class="g1_298"/>
+<path d="M235.6,721.5h.7V623h-.7v98.5Z" class="g1_298"/>
+<path d="M388.5,721.5h.7V623h-.7v98.5Z" class="g1_298"/>
+<path d="M544.8,721.5h.7V623h-.7v98.5Z" class="g1_298"/>
+<path d="M700.7,721.5h.7V623h-.7v98.5Z" class="g1_298"/>
+<path d="M855.6,720.8h.8V623.7h-.8v97.1Z" class="g1_298"/>
+<path d="M68.6,623.7H856.4V623H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,648.2H856.4v-.8H68.6v.8Z" class="g1_298"/>
+<path d="M68.6,672.7H856.4v-.8H68.6v.8Z" class="g1_298"/>
+<path d="M68.6,697H856.4v-.7H68.6v.7Z" class="g1_298"/>
+<path d="M68.6,721.5H856.4v-.7H68.6v.7Z" class="g1_298"/>
+</svg>

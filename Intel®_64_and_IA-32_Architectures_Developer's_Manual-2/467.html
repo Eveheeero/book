@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p467" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_467{left:69px;bottom:68px;letter-spacing:0.1px;}
+#t2_467{left:648px;bottom:1141px;letter-spacing:-0.13px;}
+#t3_467{left:777px;bottom:68px;letter-spacing:0.1px;word-spacing:-0.1px;}
+#t4_467{left:823px;bottom:68px;letter-spacing:0.12px;}
+#t5_467{left:70px;bottom:1088px;letter-spacing:-0.13px;word-spacing:0.01px;}
+#t6_467{left:70px;bottom:1069px;letter-spacing:-0.13px;}
+#t7_467{left:70px;bottom:1051px;letter-spacing:-0.11px;}
+#t8_467{left:91px;bottom:1033px;letter-spacing:-0.13px;}
+#t9_467{left:91px;bottom:1014px;letter-spacing:-0.12px;}
+#ta_467{left:70px;bottom:996px;letter-spacing:-0.15px;}
+#tb_467{left:91px;bottom:978px;letter-spacing:-0.13px;}
+#tc_467{left:70px;bottom:959px;letter-spacing:-0.16px;}
+#td_467{left:70px;bottom:923px;letter-spacing:0.13px;word-spacing:-0.08px;}
+#te_467{left:70px;bottom:900px;letter-spacing:-0.12px;word-spacing:0.01px;}
+#tf_467{left:70px;bottom:863px;letter-spacing:0.12px;word-spacing:0.03px;}
+#tg_467{left:70px;bottom:842px;letter-spacing:-0.16px;}
+#th_467{left:70px;bottom:805px;letter-spacing:0.13px;word-spacing:0.02px;}
+#ti_467{left:70px;bottom:784px;letter-spacing:-0.15px;word-spacing:-0.42px;}
+#tj_467{left:70px;bottom:762px;letter-spacing:-0.15px;word-spacing:-0.4px;}
+#tk_467{left:70px;bottom:741px;letter-spacing:-0.14px;}
+#tl_467{left:70px;bottom:719px;letter-spacing:-0.16px;}
+#tm_467{left:211px;bottom:719px;letter-spacing:-0.16px;word-spacing:-0.4px;}
+#tn_467{left:70px;bottom:698px;letter-spacing:-0.21px;}
+#to_467{left:211px;bottom:698px;letter-spacing:-0.15px;word-spacing:-0.47px;}
+
+.s1_467{font-size:12px;font-family:NeoSansIntel_34d0;color:#000;}
+.s2_467{font-size:14px;font-family:NeoSansIntel_34d0;color:#0860A8;}
+.s3_467{font-size:14px;font-family:NeoSansIntelMedium_34c-;color:#000;}
+.s4_467{font-size:14px;font-family:NeoSansIntel_34d0;color:#000;}
+.s5_467{font-size:15px;font-family:NeoSansIntelMedium_34c-;color:#0860A8;}
+.s6_467{font-size:14px;font-family:Verdana_5k9;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts467" type="text/css" >
+
+@font-face {
+	font-family: NeoSansIntelMedium_34c-;
+	src: url("fonts/NeoSansIntelMedium_34c-.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntel_34d0;
+	src: url("fonts/NeoSansIntel_34d0.woff") format("woff");
+}
+
+@font-face {
+	font-family: Verdana_5k9;
+	src: url("fonts/Verdana_5k9.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg467Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg467" style="-webkit-user-select: none;"><object width="935" height="1210" data="467/467.svg" type="image/svg+xml" id="pdf467" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_467" class="t s1_467">EXTRACTPS—Extract Packed Floating-Point Values </span>
+<span id="t2_467" class="t s2_467">INSTRUCTION SET REFERENCE, A-L </span>
+<span id="t3_467" class="t s1_467">Vol. 2A </span><span id="t4_467" class="t s1_467">3-357 </span>
+<span id="t5_467" class="t s3_467">EXTRACTPS (128-bit Legacy SSE Version) </span>
+<span id="t6_467" class="t s4_467">SRC_OFFSET := IMM8[1:0] </span>
+<span id="t7_467" class="t s4_467">IF (64-Bit Mode and DEST is register) </span>
+<span id="t8_467" class="t s4_467">DEST[31:0] := (SRC[127:0] &gt;&gt; (SRC_OFFSET*32)) AND 0FFFFFFFFh </span>
+<span id="t9_467" class="t s4_467">DEST[63:32] := 0 </span>
+<span id="ta_467" class="t s4_467">ELSE </span>
+<span id="tb_467" class="t s4_467">DEST[31:0] := (SRC[127:0] &gt;&gt; (SRC_OFFSET*32)) AND 0FFFFFFFFh </span>
+<span id="tc_467" class="t s4_467">FI </span>
+<span id="td_467" class="t s5_467">Intel C/C++ Compiler Intrinsic Equivalent </span>
+<span id="te_467" class="t s4_467">EXTRACTPS int _mm_extract_ps (__m128 a, const int nidx); </span>
+<span id="tf_467" class="t s5_467">SIMD Floating-Point Exceptions </span>
+<span id="tg_467" class="t s6_467">None. </span>
+<span id="th_467" class="t s5_467">Other Exceptions </span>
+<span id="ti_467" class="t s6_467">VEX-encoded instructions, see Table 2-22, “Type 5 Class Exception Conditions.” </span>
+<span id="tj_467" class="t s6_467">EVEX-encoded instructions, see Table 2-57, “Type E9NF Class Exception Conditions.” </span>
+<span id="tk_467" class="t s6_467">Additionally: </span>
+<span id="tl_467" class="t s6_467">#UD </span><span id="tm_467" class="t s6_467">IF VEX.L = 0. </span>
+<span id="tn_467" class="t s6_467">#UD </span><span id="to_467" class="t s6_467">If VEX.vvvv != 1111B or EVEX.vvvv != 1111B. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

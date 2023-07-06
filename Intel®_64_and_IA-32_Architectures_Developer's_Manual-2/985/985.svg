@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_985{
+fill: #FFF;
+}
+.g1_985{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H755.2v-21.2H68.9v21.2Z" class="g0_985"/>
+<path d="M771.3,1149.3H855v-21.2H771.3v21.2Z" class="g0_985"/>
+<path d="M69.9,568h.8V125.7h-.8V568Z" class="g1_985"/>
+<path d="M386.9,568.7h.8V124.9h-.8V568.7Z" class="g1_985"/>
+<path d="M424.8,568.7h.7V124.9h-.7V568.7Z" class="g1_985"/>
+<path d="M498.1,568.7h.7V124.9h-.7V568.7Z" class="g1_985"/>
+<path d="M574.1,568.7h.7V124.9h-.7V568.7Z" class="g1_985"/>
+<path d="M853.5,568h.7V125.7h-.7V568Z" class="g1_985"/>
+<path d="M69.9,125.7H854.3v-.8H69.9v.8Z" class="g1_985"/>
+<path d="M69.9,179.1H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,218.8H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,258.6H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,298.3H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,388.4H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,478.6H854.3v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,568.7H854.3V568H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,720.8h.8V623.7h-.8v97.1Z" class="g1_985"/>
+<path d="M141.3,721.5h.7V623h-.7v98.5Z" class="g1_985"/>
+<path d="M244.7,721.5h.7V623h-.7v98.5Z" class="g1_985"/>
+<path d="M387.4,721.5h.7V623h-.7v98.5Z" class="g1_985"/>
+<path d="M540.6,721.5h.7V623h-.7v98.5Z" class="g1_985"/>
+<path d="M693.8,721.5h.8V623h-.8v98.5Z" class="g1_985"/>
+<path d="M850.4,720.8h.7V623.7h-.7v97.1Z" class="g1_985"/>
+<path d="M69.9,623.7H851.1V623H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,648.2H851.1v-.8H69.9v.8Z" class="g1_985"/>
+<path d="M69.9,672.7H851.1v-.8H69.9v.8Z" class="g1_985"/>
+<path d="M69.9,697H851.1v-.7H69.9v.7Z" class="g1_985"/>
+<path d="M69.9,721.5H851.1v-.7H69.9v.7Z" class="g1_985"/>
+</svg>

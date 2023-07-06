@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_56"><path d="M97.2,59V41.4h72.2V59Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_56{
+fill: #000;
+}
+.g1_56{
+fill: #000;
+stroke: #000;
+stroke-width: 0.763;
+}
+.g2_56{
+fill: #000;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g3_56{
+fill: #FFF;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g4_56{
+fill: #FFF;
+}
+.g5_56{
+fill: none;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g6_56{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-dasharray: 4,5;
+}
+]]></style>
+</defs>
+<path d="M96.1,63.1v.3H838.9v-.3H96.1Z" class="g0_56"/>
+<path d="M96.1,1114.3v.3v-.3Z" class="g0_56"/>
+<path d="M838.9,1114.3v.3v-.3Z" class="g0_56"/>
+<path d="M96.1,1114.3v.3H838.9v-.3H96.1Z" class="g0_56"/>
+<image clip-path="url(#c0_56)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M320.6,463.2H335" class="g1_56"/>
+<path d="M333.9,460.1l6.6,3.1l-6.6,3v-6.1Z" class="g0_56"/>
+<path d="M321.4,331.8h14.4" class="g1_56"/>
+<path d="M334.7,328.7l6.6,3.1l-6.6,3v-6.1Z" class="g0_56"/>
+<path d="M667.4,463.2h14.5" class="g1_56"/>
+<path d="M680.8,460.1l6.6,3.1l-6.6,3v-6.1Z" class="g0_56"/>
+<path d="M668.2,331.8h14.4" class="g1_56"/>
+<path d="M681.5,328.7l6.6,3.1l-6.6,3v-6.1Z" class="g0_56"/>
+<path d="M668.2,352.4h14.4" class="g1_56"/>
+<path d="M681.5,349.4l6.6,3l-6.6,3v-6Z" class="g0_56"/>
+<path d="M349,467.3H449.4v-134H349v134Z" class="g2_56"/>
+<path d="M346.8,465.1H447.2v-134H346.8v134Z" class="g3_56"/>
+<path d="M338.9,420.2H455V397.3H338.9v22.9Z" class="g4_56"/>
+<path d="M344.3,401.1l8.4,-8.4m91.6,8.4l8.4,-8.4m-110,32.9l8.4,-8.4m91.7,8.4l8.4,-8.4" class="g5_56"/>
+<path d="M695.8,467.3H796.2v-134H695.8v134Z" class="g2_56"/>
+<path d="M693.6,465.1H794v-134H693.6v134Z" class="g3_56"/>
+<path d="M685.7,420.2H801.8V397.3H685.7v22.9Z" class="g4_56"/>
+<path d="M691.1,401.1l8.4,-8.4m91.6,8.4l8.5,-8.4M689.5,425.6l8.5,-8.4m91.6,8.4l8.4,-8.4" class="g5_56"/>
+<path d="M794,352.6V330.8H693.6v21.8H794Z" class="g6_56"/>
+<path d="M65.6,567.6h3v18.3h-3V567.6Z" class="g0_56"/>
+<path d="M65.6,801.5h3V905.3h-3V801.5Z" class="g0_56"/>
+</svg>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p203" style="overflow: hidden; position: relative; background-color: white; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_203{left:789px;bottom:68px;letter-spacing:0.08px;word-spacing:0.01px;}
+#t2_203{left:827px;bottom:68px;letter-spacing:0.11px;}
+#t3_203{left:518px;bottom:1141px;letter-spacing:-0.14px;}
+#t4_203{left:70px;bottom:1088px;letter-spacing:-0.15px;word-spacing:-0.45px;}
+#t5_203{left:70px;bottom:1071px;letter-spacing:-0.15px;word-spacing:-1.25px;}
+#t6_203{left:70px;bottom:1054px;letter-spacing:-0.13px;}
+#t7_203{left:70px;bottom:1031px;letter-spacing:-0.14px;word-spacing:-0.9px;}
+#t8_203{left:70px;bottom:1014px;letter-spacing:-0.15px;word-spacing:-0.46px;}
+#t9_203{left:70px;bottom:998px;letter-spacing:-0.14px;word-spacing:-0.88px;}
+#ta_203{left:70px;bottom:981px;letter-spacing:-0.14px;word-spacing:-0.49px;}
+#tb_203{left:70px;bottom:958px;letter-spacing:-0.15px;word-spacing:-0.47px;}
+#tc_203{left:70px;bottom:941px;letter-spacing:-0.15px;word-spacing:-0.47px;}
+#td_203{left:70px;bottom:924px;letter-spacing:-0.15px;word-spacing:-0.47px;}
+#te_203{left:70px;bottom:907px;letter-spacing:-0.13px;word-spacing:-0.47px;}
+#tf_203{left:70px;bottom:885px;letter-spacing:-0.14px;word-spacing:-0.48px;}
+#tg_203{left:70px;bottom:868px;letter-spacing:-0.14px;word-spacing:-1.34px;}
+#th_203{left:70px;bottom:851px;letter-spacing:-0.14px;word-spacing:-0.48px;}
+#ti_203{left:70px;bottom:834px;letter-spacing:-0.15px;word-spacing:-0.45px;}
+#tj_203{left:70px;bottom:817px;letter-spacing:-0.15px;word-spacing:-0.44px;}
+#tk_203{left:70px;bottom:793px;letter-spacing:-0.14px;word-spacing:-0.47px;}
+#tl_203{left:70px;bottom:776px;letter-spacing:-0.14px;word-spacing:-0.6px;}
+#tm_203{left:70px;bottom:759px;letter-spacing:-0.14px;word-spacing:-0.48px;}
+
+.s1_203{font-size:12px;font-family:NeoSansIntel_6wv3;color:#000;}
+.s2_203{font-size:14px;font-family:NeoSansIntel_6wv3;color:#0860A8;}
+.s3_203{font-size:14px;font-family:Verdana_b5t;color:#000;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts203" type="text/css" >
+
+@font-face {
+	font-family: NeoSansIntel_6wv3;
+	src: url("fonts/NeoSansIntel_6wv3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Verdana_b5t;
+	src: url("fonts/Verdana_b5t.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg203Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg203" style="-webkit-user-select: none;"><object width="935" height="1210" data="203/203.svg" type="image/svg+xml" id="pdf203" style="width:935px; height:1210px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_203" class="t s1_203">Vol. 1 </span><span id="t2_203" class="t s1_203">7-25 </span>
+<span id="t3_203" class="t s2_203">PROGRAMMING WITH GENERAL-PURPOSE INSTRUCTIONS </span>
+<span id="t4_203" class="t s3_203">RDSEED returns random numbers that are supplied by a cryptographically secure, enhanced non-deterministic </span>
+<span id="t5_203" class="t s3_203">random bit generator (Enhanced NRBG). The NRBG is designed to meet the NIST SP 800-90B and NIST SP800-90C </span>
+<span id="t6_203" class="t s3_203">standards. </span>
+<span id="t7_203" class="t s3_203">In order for the hardware design to meet its security goals, the random number generator continuously tests itself </span>
+<span id="t8_203" class="t s3_203">and the random data it is generating. Runtime failures in the random number generator circuitry or statistically </span>
+<span id="t9_203" class="t s3_203">anomalous data occurring by chance will be detected by the self test hardware and flag the resulting data as being </span>
+<span id="ta_203" class="t s3_203">bad. In such extremely rare cases, the RDSEED instruction will return no data instead of bad data. </span>
+<span id="tb_203" class="t s3_203">Under heavy load, with multiple cores executing RDSEED in parallel, it is possible for the demand of random </span>
+<span id="tc_203" class="t s3_203">numbers by software processes/threads to exceed the rate at which the random number generator hardware can </span>
+<span id="td_203" class="t s3_203">supply them. This will lead to the RDSEED instruction returning no data transitorily. The RDSEED instruction indi- </span>
+<span id="te_203" class="t s3_203">cates the occurrence of this situation by clearing the CF flag. </span>
+<span id="tf_203" class="t s3_203">The RDSEED instruction returns with the carry flag set (CF = 1) to indicate valid data is returned. It is recom- </span>
+<span id="tg_203" class="t s3_203">mended that software using the RDSEED instruction to get random numbers retry for a limited number of iterations </span>
+<span id="th_203" class="t s3_203">while RDSEED returns CF=0 and complete when valid data is returned, indicated with CF=1. This will deal with </span>
+<span id="ti_203" class="t s3_203">transitory underflows. A retry limit should be employed to prevent a hard failure in the NRBG (expected to be </span>
+<span id="tj_203" class="t s3_203">extremely rare) leading to a busy loop in software. </span>
+<span id="tk_203" class="t s3_203">The intrinsic primitive for RDSEED is defined to address software’s need for the common cases (CF = 1) and the </span>
+<span id="tl_203" class="t s3_203">rare situations (CF = 0). The intrinsic primitive returns a value that reflects the value of the carry flag returned by </span>
+<span id="tm_203" class="t s3_203">the underlying RDSEED instruction. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>

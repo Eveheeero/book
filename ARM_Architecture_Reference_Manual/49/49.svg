@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 825 990" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_49{
+fill: #000;
+}
+.g1_49{
+fill: #FFF;
+}
+]]></style>
+</defs>
+<path d="M94.9,910.3h.3v-.8h-.3v.8Z" class="g0_49"/>
+<path d="M95.2,910.3h650v-.8H95.2v.8Z" class="g0_49"/>
+<path d="M160.2,231.3H744.9V205.2H160.2v26.1Z" class="g1_49"/>
+<path d="M160.2,216.3v-.7Z" class="g0_49"/>
+<path d="M160.2,216.3h43.7v-.7H160.2v.7Z" class="g0_49"/>
+<path d="M246.7,216.3h.3v-.7h-.3v.7Z" class="g0_49"/>
+<path d="M247,216.3h86.8v-.7H247v.7Z" class="g0_49"/>
+<path d="M160.2,278.8H744.9V267.9H160.2v10.9Z" class="g1_49"/>
+<path d="M160.2,271.8v-.7Z" class="g0_49"/>
+<path d="M160.2,271.8H333.8v-.7H160.2v.7Z" class="g0_49"/>
+<path d="M159.9,377.3h1.5V334.5h-1.5v42.8Z" class="g0_49"/>
+<path d="M178.5,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M196.7,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M215,378.9h.8V333H215v45.9Z" class="g0_49"/>
+<path d="M233.3,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M251.5,378.9h.8V333h-.8v45.9Z" class="g0_49"/>
+<path d="M288,378.9h.8V333H288v45.9Z" class="g0_49"/>
+<path d="M306.4,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M379.3,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M452.4,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M561.9,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M580.2,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M598.5,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M616.7,378.9h.8V333h-.8v45.9Z" class="g0_49"/>
+<path d="M635,378.9h.7V333H635v45.9Z" class="g0_49"/>
+<path d="M653.2,378.9h.7V333h-.7v45.9Z" class="g0_49"/>
+<path d="M744.5,377.3h.8V334.5h-.8v42.8Z" class="g0_49"/>
+<path d="M159.9,334.6H745.2V333H159.9v1.6Z" class="g0_49"/>
+<path d="M159.9,378.9H745.2v-1.6H159.9v1.6Z" class="g0_49"/>
+</svg>

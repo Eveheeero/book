@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_167{
+fill: #FFF;
+}
+.g1_167{
+fill: #000;
+}
+.g2_167{
+fill: none;
+stroke: #000;
+stroke-width: 0.348;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3H852.7v-21.2H68.9v21.2Z" class="g0_167"/>
+<path d="M171.3,788.6h.8V113.5h-.8V788.6Z" class="g1_167"/>
+<path d="M750.7,788.6h.7V113.5h-.7V788.6Z" class="g1_167"/>
+<path d="M171.3,113.4H751.4v-.7H171.3v.7Z" class="g1_167"/>
+<path d="M171.3,789.3H751.4v-.7H171.3v.7Z" class="g1_167"/>
+<path d="M372.3,231.4h12" class="g2_167"/>
+<path fill-rule="evenodd" d="M373,234.5l-6.4,-3.1l6.4,-3.2v6.3Z" class="g1_167"/>
+<path d="M227,415.1H366.3v-28H227v28Zm139.3,-211V429.6M227,303H366.3V275H227v28Zm0,-28H366.3V247H227v28Zm0,-28H366.3V219H227v28Zm0,140H366.3V359H227v28Zm0,-28H366.3V331H227v28Zm0,-28H366.3V303H227v28Zm-.1,-126.9V429.6M373,345.1h12" class="g2_167"/>
+<path fill-rule="evenodd" d="M373.8,348.2l-6.4,-3.1l6.4,-3.2v6.3Z" class="g1_167"/>
+<path d="M576.2,723.1H715.5v-28H576.2v28Zm139.4,-211l-.2,264M576.2,611H715.5V583H576.2v28Zm0,-28H715.5V554.9H576.2V583Zm0,-28.1H715.5V527H576.2v27.9Zm0,140.1H715.5V667H576.2v28Zm0,-28H715.5V639H576.2v28Zm0,-28H715.5V611H576.2v28Zm0,-126.9V775.7m-5.5,-66.6H549.6" class="g2_167"/>
+<path fill-rule="evenodd" d="M569.9,705.9l6.3,3.2l-6.3,3.2v-6.4Z" class="g1_167"/>
+<path d="M576.2,751.2H715.5V723.3H576.2v27.9ZM355.9,539.4h12" class="g2_167"/>
+<path fill-rule="evenodd" d="M356.7,542.5l-6.3,-3.1l6.3,-3.2v6.3Z" class="g1_167"/>
+<path d="M210.7,723.1H350v-28H210.7v28Zm139.4,-211L350,737.6M210.7,611H350V583H210.7v28Zm0,-28H350V554.9H210.7V583Zm0,-28.1H350V527H210.7v27.9Zm0,140.1H350V667H210.7v28Zm0,-28H350V639H210.7v28Zm0,-28H350V611H210.7v28Zm0,-126.9V737.6" class="g2_167"/>
+</svg>

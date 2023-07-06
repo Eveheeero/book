@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_532"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_532{
+fill: #000;
+}
+.g1_532{
+fill: #FFF;
+}
+.g2_532{
+fill: #231F20;
+}
+.g3_532{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.527;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_532"/>
+<path d="M96.2,1114.1h-.1v.3h.1v-.3Z" class="g0_532"/>
+<path d="M838.7,1114.1h.2v.3h-.2v-.3Z" class="g0_532"/>
+<path d="M96.2,1114.1v.3H838.7v-.3H96.2Z" class="g0_532"/>
+<image clip-path="url(#c0_532)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M584.2,821.5h23.3v53.4H584.2V821.5Z" class="g1_532"/>
+<path d="M607.5,821.5h46.7v53.4H607.5V821.5Z" class="g1_532"/>
+<path d="M281.1,821.8h-.7v51.7h.7V821.8Z" class="g0_532"/>
+<path d="M584.5,821.1h-.7v55.4h.7V821.1Z" class="g0_532"/>
+<path d="M607.9,821.1h-.7v55.4h.7V821.1Z" class="g0_532"/>
+<path d="M655.8,821.8h-3.1v51.7h3.1V821.8Z" class="g0_532"/>
+<path d="M280.4,821.1v.7H655.8v-.7H280.4Z" class="g0_532"/>
+<path d="M280.4,873.5v3H655.8v-3H280.4Z" class="g0_532"/>
+<path d="M279.8,906.6v.8H655.2v-.8H279.8Z" class="g0_532"/>
+<path d="M279.8,966.2v.8H655.2v-.8H279.8Z" class="g0_532"/>
+<path d="M257.8,283.4h94.5V259.1H257.8v24.3Z" class="g2_532"/>
+<path d="M352.3,283.4H257.8V259.1h94.5v24.3Z" class="g3_532"/>
+<path d="M255.6,281.2h94.5V256.9H255.6v24.3Z" class="g1_532"/>
+<path d="M350.1,281.2H255.6V256.9h94.5v24.3Z" class="g3_532"/>
+<path d="M257.8,322.2h94.5V297.8H257.8v24.4Z" class="g2_532"/>
+<path d="M352.3,322.2H257.8V297.8h94.5v24.4Z" class="g3_532"/>
+<path d="M255.6,320h94.5V295.6H255.6V320Z" class="g1_532"/>
+<path d="M350.1,320H255.6V295.6h94.5V320Z" class="g3_532"/>
+<path d="M257.8,360.9h94.5V336.6H257.8v24.3Z" class="g2_532"/>
+<path d="M352.3,360.9H257.8V336.6h94.5v24.3Z" class="g3_532"/>
+<path d="M255.6,358.7h94.5V334.4H255.6v24.3Z" class="g1_532"/>
+<path d="M350.1,358.7H255.6V334.4h94.5v24.3Z" class="g3_532"/>
+<path d="M257.8,399.6h94.5V375.3H257.8v24.3Z" class="g2_532"/>
+<path d="M352.3,399.6H257.8V375.3h94.5v24.3Z" class="g3_532"/>
+<path d="M255.6,397.4h94.5V373.1H255.6v24.3Z" class="g1_532"/>
+<path d="M350.1,397.4H255.6V373.1h94.5v24.3Z" class="g3_532"/>
+<path d="M257.8,218.5h94.5V194.1H257.8v24.4Z" class="g2_532"/>
+<path d="M352.3,218.5H257.8V194.1h94.5v24.4Z" class="g3_532"/>
+<path d="M255.6,216.3h94.5V191.9H255.6v24.4Z" class="g1_532"/>
+<path d="M350.1,216.3H255.6V191.9h94.5v24.4Z" class="g3_532"/>
+<path d="M257.8,467.1h94.5V442.8H257.8v24.3Z" class="g2_532"/>
+<path d="M352.3,467.1H257.8V442.8h94.5v24.3Z" class="g3_532"/>
+<path d="M255.6,464.9h94.5V440.6H255.6v24.3Z" class="g1_532"/>
+<path d="M350.1,464.9H255.6V440.6h94.5v24.3Z" class="g3_532"/>
+<path d="M498.7,299.1H666.8V274.8H498.7v24.3Z" class="g2_532"/>
+<path d="M666.8,299.1H498.7V274.8H666.8v24.3Z" class="g3_532"/>
+<path d="M496.5,296.9H664.6V272.6H496.5v24.3Z" class="g1_532"/>
+<path d="M664.6,296.9H496.5V272.6H664.6v24.3Z" class="g3_532"/>
+<path d="M498.7,218.9H666.8V194.6H498.7v24.3Z" class="g2_532"/>
+<path d="M666.8,218.9H498.7V194.6H666.8v24.3Z" class="g3_532"/>
+<path d="M496.5,216.7H664.6V192.4H496.5v24.3Z" class="g1_532"/>
+<path d="M664.6,216.7H496.5V192.4H664.6v24.3Z" class="g3_532"/>
+<path d="M498.7,379.3H666.8V355H498.7v24.3Z" class="g2_532"/>
+<path d="M666.8,379.3H498.7V355H666.8v24.3Z" class="g3_532"/>
+<path d="M496.5,377.1H664.6V352.8H496.5v24.3Z" class="g1_532"/>
+<path d="M664.6,377.1H496.5V352.8H664.6v24.3Z" class="g3_532"/>
+<path d="M498.7,450.6H666.8V426.3H498.7v24.3Z" class="g2_532"/>
+<path d="M666.8,450.6H498.7V426.3H666.8v24.3Z" class="g3_532"/>
+<path d="M496.5,448.4H664.6V424.1H496.5v24.3Z" class="g1_532"/>
+<path d="M664.6,448.4H496.5V424.1H664.6v24.3Z" class="g3_532"/>
+</svg>

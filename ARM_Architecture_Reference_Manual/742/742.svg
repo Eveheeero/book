@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 825 990" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_742{
+fill: #000;
+}
+.g1_742{
+fill: #FFF;
+}
+]]></style>
+</defs>
+<path d="M79.8,910.3h.3v-.8h-.3v.8Z" class="g0_742"/>
+<path d="M80.1,910.3h650v-.8H80.1v.8Z" class="g0_742"/>
+<path d="M145.1,454.3H729.8V428.4H145.1v25.9Z" class="g1_742"/>
+<path d="M145.1,439.4v-.8Z" class="g0_742"/>
+<path d="M145.1,439.4h43.6v-.8H145.1v.8Z" class="g0_742"/>
+<path d="M231.5,439.4h.4v-.8h-.4v.8Z" class="g0_742"/>
+<path d="M231.9,439.4h86.7v-.8H231.9v.8Z" class="g0_742"/>
+<path d="M145.1,535.4H729.8V524.6H145.1v10.8Z" class="g1_742"/>
+<path d="M145.1,528.5v-.8Z" class="g0_742"/>
+<path d="M145.1,528.5H318.6v-.8H145.1v.8Z" class="g0_742"/>
+<path d="M144.7,635.5h1.6V608h-1.6v27.5Z" class="g0_742"/>
+<path d="M181.6,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M218.1,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M254.6,637h.8V606.5h-.8V637Z" class="g0_742"/>
+<path d="M291.1,637h.8V606.5h-.8V637Z" class="g0_742"/>
+<path d="M327.7,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M364.2,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M400.7,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M437.3,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M473.7,637h.8V606.5h-.8V637Z" class="g0_742"/>
+<path d="M510.2,637h.8V606.5h-.8V637Z" class="g0_742"/>
+<path d="M546.8,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M583.3,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M619.9,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M656.3,637h.8V606.5h-.8V637Z" class="g0_742"/>
+<path d="M692.8,637h.7V606.5h-.7V637Z" class="g0_742"/>
+<path d="M729,635.5h1.6V608H729v27.5Z" class="g0_742"/>
+<path d="M144.7,608H730.5v-1.5H144.7V608Z" class="g0_742"/>
+<path d="M144.7,637.1H730.5v-1.6H144.7v1.6Z" class="g0_742"/>
+</svg>

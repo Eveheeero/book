@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_231"><path d="M766.7,59V41.4h72.2V59Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_231{
+fill: #000;
+}
+.g1_231{
+fill: none;
+stroke: #000;
+stroke-width: 1.527;
+}
+.g2_231{
+fill: #E0E0E0;
+}
+.g3_231{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+}
+.g4_231{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-dasharray: 19,7;
+}
+]]></style>
+</defs>
+<path d="M97.5,63.1v.3H840v-.3H97.5Z" class="g0_231"/>
+<path d="M96.1,1114.3v.3v-.3Z" class="g0_231"/>
+<path d="M838.9,1114.3v.3v-.3Z" class="g0_231"/>
+<path d="M96.1,1114.3v.3H838.9v-.3H96.1Z" class="g0_231"/>
+<image clip-path="url(#c0_231)" preserveAspectRatio="none" x="767" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M588.6,826.5h-55v-22h55v22Zm-55,0h-55v-22h55v22Zm-55,0h-55v-22h55v22Zm-55,0h-55v-22h55v22Zm34.1,-98.8h-55v-22h55v22Zm-55,0h-55v-22h55v22Z" class="g1_231"/>
+<path d="M237.7,727.7h110v-22h-110v22Z" class="g2_231"/>
+<path d="M347.7,727.7h-110v-22h110v22Zm371.8,0h-55v-22h55v22Zm-55,0h-55v-22h55v22Z" class="g1_231"/>
+<path d="M499.5,727.7h110v-22h-110v22Z" class="g2_231"/>
+<path d="M609.5,727.7h-110v-22h110v22Z" class="g1_231"/>
+<path d="M431.2,734.3l123.7,58.6" class="g3_231"/>
+<path d="M552.3,795.9l7.6,-.6L555.6,789l-3.3,6.9Z" class="g0_231"/>
+<path d="M692.6,733.8L511.8,792.2" class="g3_231"/>
+<path d="M511.6,788.2l-5.1,5.7l7.5,1.6l-2.4,-7.3Z" class="g0_231"/>
+<path d="M376.8,733.3l70.8,58.9" class="g3_231"/>
+<path d="M444.3,794.4l7.5,1.3l-2.6,-7.1l-4.9,5.8Z" class="g0_231"/>
+<path d="M638.6,733.3L402.8,792.2" class="g3_231"/>
+<path d="M402.9,788.2l-5.4,5.3l7.3,2.1l-1.9,-7.4Z" class="g0_231"/>
+<path d="M368.1,815.8H213.8V715.5h16.3" class="g4_231"/>
+<path d="M229,719.3l6.6,-3.8L229,711.7v7.6Z" class="g0_231"/>
+</svg>

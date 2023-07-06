@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1835"><path d="M97.3,59.2V41.4h72.1V59.2Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1835{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M96.2,62.9v.3H838.7v-.3H96.2Z" class="g0_1835"/>
+<path d="M96.2,1114.1h-.1v.4h.1v-.4Z" class="g0_1835"/>
+<path d="M838.7,1114.1h.2v.4h-.2v-.4Z" class="g0_1835"/>
+<path d="M96.2,1114.1v.4H838.7v-.4H96.2Z" class="g0_1835"/>
+<image clip-path="url(#c0_1835)" preserveAspectRatio="none" x="97" y="41" width="72" height="18" xlink:href="img/1.jpg"/>
+<path d="M96.6,179.1h-.7v869.1h.7V179.1Z" class="g0_1835"/>
+<path d="M381,178.4h-.7V828.9h.7V178.4Z" class="g0_1835"/>
+<path d="M482.3,178.4h-.7V540.7h.7V178.4Z" class="g0_1835"/>
+<path d="M482.3,564.4h-.7V828.9h.7V564.4Z" class="g0_1835"/>
+<path d="M583.6,178.4h-.7V540.7h.7V178.4Z" class="g0_1835"/>
+<path d="M583.6,564.4h-.7V828.9h.7V564.4Z" class="g0_1835"/>
+<path d="M711.4,178.4h-.7v65.9h.7V178.4Z" class="g0_1835"/>
+<path d="M711.4,384.1h-.7V540.7h.7V384.1Z" class="g0_1835"/>
+<path d="M711.4,564.4h-.7V828.9h.7V564.4Z" class="g0_1835"/>
+<path d="M839.1,179.1h-.7v869.1h.7V179.1Z" class="g0_1835"/>
+<path d="M95.9,178.4v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,243.6v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,292.4v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,341.4v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,384.1v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,539.9v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M380.3,564.4v.7H839.1v-.7H380.3Z" class="g0_1835"/>
+<path d="M710.7,643.9v.7H839.1v-.7H710.7Z" class="g0_1835"/>
+<path d="M95.9,723.2v.8H839.1v-.8H95.9Z" class="g0_1835"/>
+<path d="M95.9,828.2v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+<path d="M95.9,1048.2v.7H839.1v-.7H95.9Z" class="g0_1835"/>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_450{
+fill: #FFF;
+}
+.g1_450{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M68.8,1149.3H852.5v-21.2H68.8v21.2Z" class="g0_450"/>
+<path d="M67.6,329.1H853.5V299.5H67.6v29.6Z" class="g0_450"/>
+<path d="M68.6,322.4H122V309.9H68.6v12.5Z" class="g0_450"/>
+<path d="M67.4,170.8h.3V149.9h-.3v20.9Z" class="g1_450"/>
+<path d="M67.2,299.1h.7V171.5h-.7V299.1Z" class="g1_450"/>
+<path d="M234.3,171.5h.4v-22h-.4v22Z" class="g1_450"/>
+<path d="M234.1,299.8h.8v-129h-.8v129Z" class="g1_450"/>
+<path d="M625,171.5h.4v-22H625v22Z" class="g1_450"/>
+<path d="M624.8,299.8h.7v-129h-.7v129Z" class="g1_450"/>
+<path d="M663,171.5h.4v-22H663v22Z" class="g1_450"/>
+<path d="M662.8,299.8h.8v-129h-.8v129Z" class="g1_450"/>
+<path d="M701.2,171.5h.3v-22h-.3v22Z" class="g1_450"/>
+<path d="M701,299.8h.7v-129H701v129Z" class="g1_450"/>
+<path d="M739.2,171.5h.4v-22h-.4v22Z" class="g1_450"/>
+<path d="M739,299.8h.8v-129H739v129Z" class="g1_450"/>
+<path d="M777.2,171.5h.4v-22h-.4v22Z" class="g1_450"/>
+<path d="M777.1,299.8h.7v-129h-.7v129Z" class="g1_450"/>
+<path d="M815.3,171.5h.4v-22h-.4v22Z" class="g1_450"/>
+<path d="M815.1,299.8h.7v-129h-.7v129Z" class="g1_450"/>
+<path d="M853.3,170.8h.4V149.9h-.4v20.9Z" class="g1_450"/>
+<path d="M853.1,299.1h.8V171.5h-.8V299.1Z" class="g1_450"/>
+<path d="M67.4,149.9H853.8v-.4H67.4v.4Z" class="g1_450"/>
+<path d="M67.2,171.5H854v-.7H67.2v.7Z" class="g1_450"/>
+<path d="M67.2,192.9H854v-.8H67.2v.8Z" class="g1_450"/>
+<path d="M67.2,214.2H854v-.7H67.2v.7Z" class="g1_450"/>
+<path d="M67.2,235.7H854v-.8H67.2v.8Z" class="g1_450"/>
+<path d="M67.2,257H854v-.7H67.2v.7Z" class="g1_450"/>
+<path d="M67.2,278.4H854v-.7H67.2v.7Z" class="g1_450"/>
+<path d="M67.2,299.8H854v-.7H67.2v.7Z" class="g1_450"/>
+</svg>
